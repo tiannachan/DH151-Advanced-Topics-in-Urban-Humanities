@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Journey</title>
+	<meta charset="utf-8" />
+
+	<!-- style sheets -->
+	<link rel="stylesheet" href="css/style.css">
+
+    <!-- leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    
+</head>
+<body>
+
+	<div class="header">
+		My Journey
+	</div>
+	<div class="sidebar">
+		My Sidebar
+	</div>
+	<div class="content">
+	  <div id="map"></div>
+	</div>
+
+
+    <script>
+        var map = L.map('map').setView([22.371791, 114.119832], 1);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        var marker = L.marker([22.371791, 114.119832]).addTo(map)
+                .bindPopup("Home @ HK")
+                .openPopup();	
+
+        var marker = L.marker([34.027974, -118.427150]).addTo(map)
+                .bindPopup("Home @ US")
+                .openPopup();	
+
+        var marker = L.marker([64.132581, -21.939763]).addTo(map)
+                .bindPopup("Last Place I Travelled")
+                .openPopup();	
+                
+        var marker = L.marker([34.068729, -118.444838]).addTo(map)
+                .bindPopup('School')
+                .openPopup();	
+
+    </script>
+
+
+
+</body>
+</html>
