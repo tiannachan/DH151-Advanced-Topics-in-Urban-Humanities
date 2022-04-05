@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Recent Travels</title>
+    <meta charset="utf-8" />
+
+    <!-- style sheets -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+</head>
+
+<body>
+
+    <div class="header">
+        My Recent Travels
+    </div>
+    <div class="sidebar">
+        <h4>Where am I during the past 3 years? </h4> 
+        <p> In <i>December 2019</i>, right before the pandemic, I flew from the States to Sweden for a one-month N.Europe trip. </p>
+        <img src="denmark.jpg" width="110px"> <b>Copenhagen, Denmark</b><br>
+        <p>I first landed in Denmark, reunited with my mother, and we stayed in Copenhagen for a few days. This city is mixed with royal histories and modern architecture, and biking around the city center was so enjoyable. </p>
+        <img src="sweden.jpg" width="110px"> <b>Helsingborg, Sweden</b><br>
+        <p>We then cross the border of Denmark to Sweden by taking the "ForSea Ferries." Although we didn't have a chance to visit its capital Stockholm, we love Helsingborg since it is an extraordinary scenic coastal city that retains many historical buildings.  </p>
+        <img src="iceland.jpg" width="110px"> <b>Iceland</b><br>
+        <p>For our last stop in Northern Europe, we flew to Iceland, one of the least densely populated countries. We stayed at a friend's house of a family of 5, for 3 weeks!! There are so many nature sceneries- It was by far the most fascinating place I have been to. We were so upset of not seeing the aurora by the time we leave, but we surprisingly saw it on the plane! </p>
+        <p><i>And then... the pandemic hit.</i></p>
+        <img src="hk.jpg" width="110px"> <b>Hong Kong</b> <br>
+        <p>In <i>April 2020</i>, I decided to go back home. Despite our day-to-day lives are drastically changed by the pandemic, I am thankful that I got to reunite with my family and friends there after being away for so long.</p>
+        <img src="canada.jpg" width="110px"> <b>Vancouver, Canada</b><br>
+        <p>Finally, in <i>October 2021</i>, we came back to in person classes! I had a layover in Vancouver for 5 hours before arriving LA. Fun fact- it is also the first time in Canada, haha!</p>
+        <img src="la.jpg" width="110px"> <b>Los Angeles, United States </b><br>
+        <p>Forgot to mention- I am also a transfer! So this was also my first year living in LA. So far loving it!</p>
+    </div>
+    <div class="content">
+        <div id="map"></div>
+    </div>
+
+
+    <script>
+
+        let data = [
+            {
+                'title': 'Hong Kong',
+                'lat': 22.371791,
+                'lon': 114.119832,
+                'description': 'my home- the city of all the crazy skyscrapers.'
+            },
+            {
+                'title': 'Helsingborg, Sweden',
+                'lat': 56.041433,
+                'lon': 12.697121,
+                'description': 'a beautiful place.'
+            },
+            {
+                'title': 'Iceland',
+                'lat': 64.128288,
+                'lon': -21.827774,
+                'description': 'stayed there for 3 weeks- fascinating views!',
+            },
+            {
+                'title': 'Vancouver, Canada',
+                'lat': 49.193947,
+                'lon': -123.183221,
+                'description': 'layovered at the airport.'
+            },
+            {
+                'title': 'Los Angeles, United States',
+                'lat': 34.068729,
+                'lon': -118.444838,
+                'description': 'To go to UCLA- the #1 public university!'
+            },
+            {
+                'title': 'Copenhagen, Denmark',
+                'lat': 55.675730,
+                'lon': 12.570458,
+                'description': 'met Anderson and his fairy tales!'
+            },
+        ]
+
+        var map = L.map('map').setView([55.675730, 12.570458], 4);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        data.forEach(function (item) {
+            var marker = L.marker([item.lat, item.lon], {
+                title: item.title
+            })
+                .addTo(map)
+                .bindPopup(item.title + " <br> " + item.description)
+                .openPopup()
+                .on('click', function (e) {
+                    map.setView(e.latlng, 13);
+                });;
+        });
+
+        const menuIcon = document.querySelector(".hamburger-menu");
+        const navbar = document.querySelector(".navbar");
+        menuIcon.addEventListener('click', () => {
+            navbar.classList.toggle('change');
+        });
+
+
+    </script>
+
+
+
+</body>
+
+</html>
