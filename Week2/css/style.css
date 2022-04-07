@@ -11,7 +11,7 @@ body,html {
 body {
     display: grid;
 	grid-template-rows: 100px 1fr;
-	grid-template-columns: 40% 1fr;
+	grid-template-columns: 30% 1fr;
 	grid-template-areas: 
 	"header header"
 	"sidebar content";
@@ -19,6 +19,7 @@ body {
 
 .header {
 	font-size: 40px;
+	font-family:cursive ;
 	text-align: center;
 	color: aliceblue;
 	grid-area: header;
@@ -26,11 +27,14 @@ body {
     background-color: rgb(21, 124, 156);
 }
 .sidebar {
+	font-family:cursives ;
 	font-size: 16px;
-	word-spacing: 20%;
+	word-spacing: 40%;
 	color: aliceblue;
 	grid-area: sidebar;
 	padding:10px;
+	background-image: url("https://img5.goodfon.com/wallpaper/nbig/e/7f/sea-sky-sunset-pink-beach-more-nebo-zakat-pliazh.jpg");
+	background-size: cover;
     background-color: rgb(56, 168, 224);
 }
 .content {
