@@ -30,6 +30,7 @@ body {
 	grid-area: sidebar;
 	padding:10px;
 	background-color: #555;
+	overflow: auto; /* allows the sidebar to overflow with a scrollbar */
 }
 
 .content {
@@ -41,4 +42,13 @@ body {
     background: gainsboro; /* background color */
     border: 1px solid gray; /* border width, style, and color */
     margin: 5px; /* outer padding */
+		cursor: pointer; /* change cursor to hand on hover */
+}
+
+.sidebar-item:hover {
+    padding: 10px; /* adds inner padding */
+    background: rgb(136, 210, 40); /* background color */
+    border: 1px rgb(115, 183, 25); /* border width, style, and color */
+    margin: 5px; /* outer padding */
+		cursor: pointer; /* change cursor to hand on hover */
 }
