@@ -54,7 +54,6 @@ function flyToIndex(index){
 	map.flyTo([data[index].lat,data[index].lon],12)
 }
 
-
 // before looping the data, create an empty FeatureGroup
 let myMarkers = L.featureGroup();
 
@@ -93,3 +92,4 @@ function flyByIndex(index){
 
 // make the map zoom to the extent of markers
 map.fitBounds(myMarkers.getBounds());
+
