@@ -1,0 +1,66 @@
+body,html {
+	margin:0;
+	height:100%;
+	width:100%;
+}
+
+#map {
+    margin:0;
+	height: 100%;
+}
+
+body {
+    display: grid;
+	grid-template-rows: 100px 1fr;
+	grid-template-columns: 25% 1fr;
+	grid-template-areas: 
+	"header header"
+	"sidebar content";
+}
+
+.header {
+	font-size: 40px;
+	font-family:cursive;
+	text-align: center;
+	color: aliceblue;
+	grid-area: header;
+	padding:20px;
+    background-color: rgb(21, 124, 156);
+}
+
+.sidebar {
+	font-family:cursive;
+	font-size: 16px;
+	word-spacing: 40%;
+	color: aliceblue;
+	grid-area: sidebar;
+	padding:10px;
+	background-image: url("https://img5.goodfon.com/wallpaper/nbig/e/7f/sea-sky-sunset-pink-beach-more-nebo-zakat-pliazh.jpg");
+	background-size: cover;
+    background-color: rgb(56, 168, 224);
+    height: 100%;
+}
+
+.content {
+    margin: 0%;
+    font-family:cursive;
+    text-align: center;
+    color: rgb(31, 66, 18);
+	grid-area: content;
+    background-color: rgb(200, 225, 237);
+}
+
+.sidebar-item {
+    padding: 10px; /* adds inner padding */
+    background: rgb(117, 98, 98); /* background color */
+    border: 1px solid gray; /* border width, style, and color */
+    margin: 5px; /* outer padding */
+}
+
+.sidebar-item:hover {
+    background: rgb(136, 210, 40); /* background color */
+    border: 1px rgb(115, 183, 25); /* border width, style, and color */
+    margin: 6px; /* outer padding */
+		cursor: pointer; /* change cursor to hand on hover */
+    transition: all .3s linear;
+}
