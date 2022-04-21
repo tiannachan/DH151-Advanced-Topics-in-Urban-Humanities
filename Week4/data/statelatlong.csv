@@ -1,0 +1,52 @@
+State,latitude,longitude,City,MinWage,Image_Url
+AL,32.6010112,-86.6807365,Alabama,0,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/alabama-nylon.png
+AK,61.3025006,-158.7750198,Alaska,10.19,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/alaska-nylon.png
+AZ,34.1682185,-111.930907,Arizona,12,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/arizona-nylon.png
+AR,34.7519275,-92.1313784,Arkansas,10,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/arkansas-nylon.png
+CA,37.2718745,-119.2704153,California,13,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/ca-nylon.png
+CO,38.9979339,-105.550567,Colorado,12,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/colorado-nylon.png
+CT,41.5187835,-72.757507,Connecticut,11,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/connecticut-nylon.png
+DE,39.145251,-75.4189206,Delaware,9.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/delaware-nylon.png
+DC,38.8993487,-77.0145666,District of Columbia,14,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/washdc-nylon.png
+FL,27.9757279,-83.8330166,Florida,8.56,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/florida-nylon.png
+GA,32.6781248,-83.2229757,Georgia,5.15,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/georgia-nylon.png
+HI,20.46,-157.505,Hawaii,10.1,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/hawaii-nylon.png
+ID,45.4945756,-114.1424303,Idaho,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/idaho-nylon.png
+IL,39.739318,-89.504139,Illinois,9.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/illinois-nylon.png
+IN,39.7662195,-86.441277,Indiana,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/indiana-nylon.png
+IA,41.9383166,-93.389798,Iowa,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/iowa-nylon.png
+KS,38.4987789,-98.3200779,Kansas,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/kansas-nylon.png
+KY,37.8222935,-85.7682399,Kentucky,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/kentucky-nylon.png
+LA,30.9733766,-91.4299097,Louisiana,0,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/louisiana-nylon.png
+ME,45.2185133,-69.0148656,Maine,12,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/maine-nylon.png
+MD,38.8063524,-77.2684162,Maryland,11,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/maryland-nylon.png
+MA,42.0629398,-71.718067,Massachusetts,12.75,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/massachusetts-nylon.png
+MI,44.9435598,-86.4158049,Michigan,9.65,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/michigan-nylon.png
+MN,46.4418595,-93.3655146,Minnesota,8.15,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/montana-nylon.png
+MS,32.5851062,-89.8772196,Mississippi,0,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/mississippi-2020.png
+MO,38.3046615,-92.437099,Missouri,9.45,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/missouri-nylon.png
+MT,46.6797995,-110.044783,Montana,8.65,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/montana-nylon.png
+NE,41.5008195,-99.680902,Nebraska,9,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/nebraska-nylon.png
+NV,38.502032,-117.0230604,Nevada,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/nevada-nylon.png
+NH,44.0012306,-71.5799231,New Hampshire,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/newhampshire-nylon.png
+NJ,40.1430058,-74.7311156,New Jersey,11,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/newjersey-nylon.png
+NM,34.1662325,-106.0260685,New Mexico,9,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/newmexico-nylon.png
+NY,40.7056258,-73.97968,New York,11.8,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/newyork-nylon.png
+NC,35.2145629,-79.8912675,North Carolina,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/northcarolina-nylon.png
+ND,47.4678819,-100.3022655,North Dakota,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/northdakota-nylon.png
+OH,40.1903624,-82.6692525,Ohio,8.7,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/ohio-nylon.png
+OK,35.3097654,-98.7165585,Oklahoma,2,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/oklahoma-nylon.png
+OR,44.1419049,-120.5380993,Oregon,11.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/oregon-nylon.png
+PA,40.9945928,-77.6046984,Pennsylvania,10.5,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/pennsylvania-nylon.png
+RI,41.5827282,-71.5064508,Rhode Island,0,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/rhodeisland-nylon.png
+SC,33.62505,-80.9470381,South Carolina,9.3,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/southcarolina-nylon.png
+SD,44.2126995,-100.2471641,South Dakota,0,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/southdakota-nylon.png
+TN,35.830521,-85.9785989,Tennessee,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/tennessee-nylon.png
+TX,31.1693363,-100.0768425,Texas,10.5,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/texas-nylon.png
+UT,39.4997605,-111.547028,Utah,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/utah-nylon.png
+VT,43.8717545,-72.4477828,Vermont,10.96,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/vermont-nylon.png
+VA,38.0033855,-79.4587861,Virginia,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/virginia-nylon.png
+WA,38.8993487,-77.0145665,Washington,13.5,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/washington-nylon.png
+WV,38.9201705,-80.1816905,West Virginia,8.75,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/westvirginia-nylon.png
+WI,44.7862968,-89.8267049,Wisconsin,7.25,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/wisconsin-nylon.png
+WY,43.000325,-107.5545669,Wyoming,5.15,https://cdn11.bigcommerce.com/s-e2nupsxogj/product_images/uploaded_images/wyoming-nylon.png
