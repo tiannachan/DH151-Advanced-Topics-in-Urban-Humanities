@@ -1,0 +1,419 @@
+price_time_stamp,currency,loc_name,city,review_count,state,zip_code_searched,latitude,product_name,payment_type,DATE_SCRAPED,phone,price_current,country,longitude,address_1,address_2,overall_rating
+##########,USD,World,Los Angeles,51,CA,90001,33.9749313,Regular,Credit,2022-04-18T05:01:29+8:00,323-582-6158,5.49,USA,-118.23792,1935 E Florence Ave,Wilson Ave,3.8
+##########,USD,7-Eleven,Los Angeles,27,CA,90001,33.989139,Regular,Credit,2022-04-18T05:01:29+8:00,,5.79,USA,-118.25187,1302 E Slauson Ave,Hooper Ave,3.9
+##########,USD,7-Eleven,Los Angeles,27,CA,90001,33.989139,Regular,Cash,2022-04-18T05:01:29+8:00,,5.69,USA,-118.25187,1302 E Slauson Ave,Hooper Ave,3.9
+##########,USD,76,Los Angeles,42,CA,90001,33.9749755,Regular,Credit,2022-04-18T05:01:29+8:00,323-587-1979,5.69,USA,-118.25604,1101 E Florence Ave,S Central Ave,3.4
+##########,USD,Chevron,Los Angeles,48,CA,90001,33.9677895,Regular,Credit,2022-04-18T05:01:29+8:00,323-581-7126,5.9,USA,-118.23348,7831 S Alameda St,Nadeau St,3.8
+##########,USD,Chevron,Los Angeles,48,CA,90001,33.9677895,Regular,Cash,2022-04-18T05:01:29+8:00,323-581-7126,5.75,USA,-118.23348,7831 S Alameda St,Nadeau St,3.8
+##########,USD,Sinclair,Los Angeles,10,CA,90001,33.967219,Regular,Credit,2022-04-18T05:01:29+8:00,323-996-5510,5.69,USA,-118.23351,2164 Nadeau St,Alameda St,4.8
+##########,USD,Sinclair,Los Angeles,10,CA,90001,33.967219,Regular,Cash,2022-04-18T05:01:29+8:00,323-996-5510,5.69,USA,-118.23351,2164 Nadeau St,Alameda St,4.8
+##########,USD,Shell,Los Angeles,32,CA,90001,33.9599203,Regular,Credit,2022-04-18T05:01:30+8:00,323-582-9700,6.09,USA,-118.24768,1454 E Firestone Blvd,Compton Ave,4.7
+##########,USD,Shell,Los Angeles,32,CA,90001,33.9599203,Regular,Cash,2022-04-18T05:01:30+8:00,323-582-9700,5.99,USA,-118.24768,1454 E Firestone Blvd,Compton Ave,4.7
+##########,USD,Mobil,Los Angeles,9,CA,90001,33.9598969,Regular,Credit,2022-04-18T05:01:30+8:00,323-589-8033,6.29,USA,-118.24681,1502 Firestone Blvd,Compton Ave,4.3
+##########,USD,Chevron,Los Angeles,14,CA,90001,33.9822567,Regular,Credit,2022-04-18T05:01:30+8:00,323-587-2733,5.69,USA,-118.24079,6320 Holmes Ave,E Gage Ave,3.9
+##########,USD,Shell,Los Angeles,25,CA,90001,33.975001,Regular,Credit,2022-04-18T05:01:30+8:00,323-753-0855,6.39,USA,-118.26468,605 E Florence Ave,S Avalon Blvd,2.8
+##########,USD,Shell,Los Angeles,25,CA,90001,33.975001,Regular,Cash,2022-04-18T05:01:30+8:00,323-753-0855,6.19,USA,-118.26468,605 E Florence Ave,S Avalon Blvd,2.8
+##########,USD,World,Los Angeles,40,CA,90001,33.9745196,Regular,Credit,2022-04-18T05:01:30+8:00,213-748-2821,5.59,USA,-118.26984,7201 S San Pedro St,E Florence Ave,3.3
+##########,USD,Chevron,Los Angeles,30,CA,90001,33.9598124,Regular,Credit,2022-04-18T05:01:31+8:00,800-403-6142,5.99,USA,-118.26988,256 E Manchester Ave,S San Pedro St,2.9
+##########,USD,Chevron,Los Angeles,30,CA,90001,33.9598124,Regular,Cash,2022-04-18T05:01:31+8:00,800-403-6142,5.89,USA,-118.26988,256 E Manchester Ave,S San Pedro St,2.9
+##########,USD,Sinclair,Los Angeles,28,CA,90001,33.96037,Regular,Credit,2022-04-18T05:01:31+8:00,323-759-0569,5.49,USA,-118.26997,255 E Manchester Ave,S San Pedro St,3
+##########,USD,Shell,Los Angeles,24,CA,90001,33.9749221,Regular,Credit,2022-04-18T05:01:31+8:00,323-753-1000,5.65,USA,-118.27872,303 W Florence Ave,S Broadway,3.9
+##########,USD,Shell,Los Angeles,24,CA,90001,33.9749221,Regular,Cash,2022-04-18T05:01:31+8:00,323-753-1000,5.55,USA,-118.27872,303 W Florence Ave,S Broadway,3.9
+##########,USD,ARCO,Los Angeles,79,CA,90001,33.9825934,Regular,Credit,2022-04-18T05:01:31+8:00,323-753-0708,5.55,USA,-118.27978,343 W Gage Ave,S Grand Ave,3.4
+##########,USD,Chevron,Los Angeles,105,CA,90001,33.9743449,Regular,Credit,2022-04-18T05:01:31+8:00,323-750-1360,6.17,USA,-118.28167,428 W Florence Ave,S Flower St,2.8
+##########,USD,Chevron,Los Angeles,105,CA,90001,33.9743449,Regular,Cash,2022-04-18T05:01:32+8:00,323-750-1360,5.87,USA,-118.28167,428 W Florence Ave,S Flower St,2.8
+##########,USD,ARCO,Los Angeles,104,CA,90001,33.9602666,Regular,Credit,2022-04-18T05:01:32+8:00,323-752-3251,5.55,USA,-118.27751,251 W Manchester Ave,S Broadway,4.5
+##########,USD,Mobil,Los Angeles,12,CA,90001,33.9889029,Regular,Credit,2022-04-18T05:01:32+8:00,323-231-2954,5.99,USA,-118.27791,254 W Slauson Ave,S Broadway,2.8
+##########,USD,ARCO,Los Angeles,17,CA,90001,33.9489864,Regular,Credit,2022-04-18T05:01:32+8:00,323-777-9700,5.69,USA,-118.26497,9600 Avalon Blvd,E Colden Ave,2.8
+##########,USD,Sinclair,Los Angeles,10,CA,90001,33.9825422,Regular,Credit,2022-04-18T05:01:32+8:00,,5.65,USA,-118.28242,6224 S Figueroa St,W Gage Ave,3.3
+##########,USD,Sinclair,Los Angeles,10,CA,90001,33.9825422,Regular,Cash,2022-04-18T05:01:32+8:00,,5.55,USA,-118.28242,6224 S Figueroa St,W Gage Ave,3.3
+##########,USD,Valero,Los Angeles,108,CA,90001,33.9748498,Regular,Credit,2022-04-18T05:01:32+8:00,323-752-6486,5.49,USA,-118.28413,615 W Florence Ave,Denver Ave,3.7
+##########,USD,Chevron,Los Angeles,22,CA,90001,33.9820507,Regular,Credit,2022-04-18T05:01:32+8:00,323-752-4444,5.95,USA,-118.2829,6303 S Figueroa St,W Gage Ave,2.8
+##########,USD,Chevron,Los Angeles,22,CA,90001,33.9820507,Regular,Cash,2022-04-18T05:01:32+8:00,323-752-4444,5.89,USA,-118.2829,6303 S Figueroa St,W Gage Ave,2.8
+##########,USD,L.A. Fuel,Los Angeles,27,CA,90001,34.0033073,Regular,Credit,2022-04-18T05:01:32+8:00,(323) 233-2327,5.59,USA,-118.25615,4424 S Central Ave,E 45th St,3.4
+##########,USD,Shell,Los Angeles,20,CA,90001,34.0042034,Regular,Credit,2022-04-18T05:01:32+8:00,323-233-5511,6.09,USA,-118.25231,1285 E Vernon Ave,Hooper Ave,3.9
+##########,USD,Shell,Los Angeles,20,CA,90001,34.0042034,Regular,Cash,2022-04-18T05:01:32+8:00,323-233-5511,5.99,USA,-118.25231,1285 E Vernon Ave,Hooper Ave,3.9
+##########,USD,76,Los Angeles,54,CA,90001,33.9598132,Regular,Credit,2022-04-18T05:01:32+8:00,323-758-0688,5.69,USA,-118.28222,8600 S Figueroa St,W Manchester Ave,2.6
+##########,USD,76,Los Angeles,54,CA,90001,33.9598132,Regular,Cash,2022-04-18T05:01:32+8:00,323-758-0688,5.54,USA,-118.28222,8600 S Figueroa St,W Manchester Ave,2.6
+##########,USD,Fig Fuel,Los Angeles,63,CA,90001,33.9889412,Regular,Credit,2022-04-18T05:01:33+8:00,323-759-9820,5.99,USA,-118.28226,5820 S Figueroa St,W Slauson Ave,3.4
+##########,USD,76,Los Angeles,80,CA,90001,34.0027203,Regular,Credit,2022-04-18T05:01:33+8:00,323-234-2836,5.45,USA,-118.26491,4442 S Avalon Blvd,E 45th St,4
+##########,USD,Chevron,Los Angeles,27,CA,90001,34.0042423,Regular,Credit,2022-04-18T05:01:33+8:00,323-231-8625,5.75,USA,-118.26499,4368 S Avalon Blvd,E Vernon Ave,3.7
+##########,USD,Chevron,Los Angeles,27,CA,90001,34.0042423,Regular,Cash,2022-04-18T05:01:33+8:00,323-231-8625,5.65,USA,-118.26499,4368 S Avalon Blvd,E Vernon Ave,3.7
+##########,USD,ARCO,Los Angeles,76,CA,90001,33.9457753,Regular,Credit,2022-04-18T05:01:33+8:00,323-755-9119,5.59,USA,-118.27358,9922 S Main St,E Century Blvd,2.8
+##########,USD,Shell,Los Angeles,53,CA,90001,33.9458231,Regular,Credit,2022-04-18T05:01:34+8:00,323-755-6818,5.99,USA,-118.27876,9915 S Broadway,W Century Blvd,3.4
+##########,USD,Shell,Los Angeles,53,CA,90001,33.9458231,Regular,Cash,2022-04-18T05:01:34+8:00,323-755-6818,5.89,USA,-118.27876,9915 S Broadway,W Century Blvd,3.4
+##########,USD,Mobil,Los Angeles,12,CA,90001,34.0040544,Regular,Credit,2022-04-18T05:01:34+8:00,323-233-0777,6.09,USA,-118.27878,315 W Vernon Ave,S Broadway,3.8
+##########,USD,Mobil,Los Angeles,12,CA,90001,34.0040544,Regular,Cash,2022-04-18T05:01:34+8:00,323-233-0777,6.09,USA,-118.27878,315 W Vernon Ave,S Broadway,3.8
+##########,USD,76,Los Angeles,17,CA,90001,33.9452546,Regular,Credit,2022-04-18T05:01:34+8:00,323-242-3585,5.75,USA,-118.28222,10000 S Figueroa St,W Century Blvd,3.4
+##########,USD,76,Los Angeles,17,CA,90001,33.9452546,Regular,Cash,2022-04-18T05:01:34+8:00,323-242-3585,5.65,USA,-118.28222,10000 S Figueroa St,W Century Blvd,3.4
+##########,USD,7-Eleven,Los Angeles,,CA,90001,33.945824,Regular,Credit,2022-04-18T05:01:34+8:00,,5.64,USA,-118.28298,505 W Century Blvd,S Figueroa St,
+##########,USD,7-Eleven,Los Angeles,,CA,90001,33.945824,Regular,Cash,2022-04-18T05:01:34+8:00,,5.55,USA,-118.28298,505 W Century Blvd,S Figueroa St,
+##########,USD,Shell,Los Angeles,33,CA,90001,34.0034385,Regular,Credit,2022-04-18T05:01:34+8:00,323-234-4666,5.79,USA,-118.28303,4403 S Figueroa St,W Vernon Ave,3.3
+##########,USD,Shell,Los Angeles,33,CA,90001,34.0034385,Regular,Cash,2022-04-18T05:01:34+8:00,323-234-4666,5.69,USA,-118.28303,4403 S Figueroa St,W Vernon Ave,3.3
+##########,USD,US Gas,Los Angeles,86,CA,90001,33.94581,Regular,Cash,2022-04-18T05:01:35+8:00,562-928-7417,5.49,USA,-118.28667,9920 S Hoover St,W Century Blvd,3.3
+##########,USD,76,Los Angeles,55,CA,90001,33.9742959,Regular,Credit,2022-04-18T05:01:35+8:00,323-778-4187,5.75,USA,-118.29991,1350 W Florence Ave,Normandie Ave,3.4
+##########,USD,76,Los Angeles,55,CA,90001,33.9742959,Regular,Cash,2022-04-18T05:01:35+8:00,323-778-4187,5.65,USA,-118.29991,1350 W Florence Ave,Normandie Ave,3.4
+##########,USD,Sinclair,Los Angeles,44,CA,90001,33.933712,Regular,Credit,2022-04-18T05:01:35+8:00,818-830-3200,5.59,USA,-118.26545,11151 S Avalon Blvd,E 111th Pl,3.5
+##########,USD,Sinclair,Los Angeles,44,CA,90001,33.933712,Regular,Cash,2022-04-18T05:01:35+8:00,818-830-3200,5.49,USA,-118.26545,11151 S Avalon Blvd,E 111th Pl,3.5
+##########,USD,Chevron,Los Angeles,26,CA,90001,33.9292603,Regular,Credit,2022-04-18T05:01:35+8:00,323-567-1441,5.99,USA,-118.25076,1340 E Imperial Hwy,Success Ave,3.3
+##########,USD,Shell,Los Angeles,24,CA,90001,33.9291683,Regular,Credit,2022-04-18T05:01:35+8:00,323-564-5333,5.99,USA,-118.25462,1150 E Imperial Hwy,S Central Ave,3.2
+##########,USD,7-Eleven,Los Angeles,32,CA,90001,33.94512,Regular,Credit,2022-04-18T05:01:36+8:00,323-203-8029,5.64,USA,-118.29122,10000 Vermont Ave,W Century Blvd,3.9
+##########,USD,ARCO,Los Angeles,41,CA,90001,33.93084,Regular,Credit,2022-04-18T05:01:36+8:00,323-754-9470,5.55,USA,-118.2655,484 E Imperial Hwy,S Avalon Blvd,2.9
+##########,USD,ARCO,Los Angeles,41,CA,90001,33.93084,Regular,Cash,2022-04-18T05:01:36+8:00,323-754-9470,5.45,USA,-118.2655,484 E Imperial Hwy,S Avalon Blvd,2.9
+##########,USD,Mobil,Los Angeles,18,CA,90001,34.0202458,Regular,Credit,2022-04-18T05:01:36+8:00,213-745-7441,6.19,USA,-118.23907,1690 S Alameda St,E Washington Blvd,4.3
+##########,USD,RHDM Fuel,Los Angeles,20,CA,90001,33.9312691,Regular,Credit,2022-04-18T05:01:36+8:00,323-777-7119,5.55,USA,-118.27415,11321 S Main St,Imperial Hwy,2.8
+##########,USD,RHDM Fuel,Los Angeles,20,CA,90001,33.9312691,Regular,Cash,2022-04-18T05:01:36+8:00,323-777-7119,5.45,USA,-118.27415,11321 S Main St,Imperial Hwy,2.8
+##########,USD,76,Los Angeles,23,CA,90001,33.9349841,Regular,Credit,2022-04-18T05:01:36+8:00,323-756-1481,5.77,USA,-118.28281,11025 S Figueroa St,111th St,4.2
+##########,USD,76,Los Angeles,23,CA,90001,33.9349841,Regular,Cash,2022-04-18T05:01:36+8:00,323-756-1481,5.67,USA,-118.28281,11025 S Figueroa St,111th St,4.2
+##########,USD,SC Fuels,Los Angeles,22,CA,90001,34.0215019,Regular,Credit,2022-04-18T05:01:37+8:00,626-444-2691,5.79,USA,-118.23974,1631 S Alameda St,16th St,2.2
+##########,USD,ARCO,Los Angeles,32,CA,90001,33.9707069,Regular,Credit,2022-04-18T05:01:37+8:00,323-541-0890,5.39,USA,-118.30868,7600 S Western Ave,W 76th St,2.8
+##########,USD,Shell,Los Angeles,25,CA,90001,33.92395,Regular,Credit,2022-04-18T05:01:37+8:00,323-566-1667,5.99,USA,-118.24654,11913 S Compton Ave,E 120th St,2.9
+##########,USD,Shell,Los Angeles,25,CA,90001,33.92395,Regular,Cash,2022-04-18T05:01:37+8:00,323-566-1667,5.89,USA,-118.24654,11913 S Compton Ave,E 120th St,2.9
+##########,USD,Ralphs,Los Angeles,1,CA,90001,33.959437,Regular,Credit,2022-04-18T05:01:37+8:00,,5.45,USA,-118.30783,1730 W Manchester Blvd,S Western Ave,5
+##########,USD,Chevron,Los Angeles,26,CA,90001,33.9312484,Regular,Credit,2022-04-18T05:01:37+8:00,323-756-1006,5.99,USA,-118.28223,449 W Imperial Hwy,S Figueroa St,3.6
+##########,USD,Chevron,Los Angeles,26,CA,90001,33.9312484,Regular,Cash,2022-04-18T05:01:37+8:00,323-756-1006,5.89,USA,-118.28223,449 W Imperial Hwy,S Figueroa St,3.6
+##########,USD,Chevron,Los Angeles,16,CA,90001,33.945644,Regular,Credit,2022-04-18T05:01:38+8:00,323-756-4303,5.99,USA,-118.29997,1359 W Century Blvd,S Normandie Ave,3
+##########,USD,Chevron,Los Angeles,16,CA,90001,33.945644,Regular,Cash,2022-04-18T05:01:38+8:00,323-756-4303,5.89,USA,-118.29997,1359 W Century Blvd,S Normandie Ave,3
+##########,USD,Metro Gas,Los Angeles,57,CA,90001,34.01046,Regular,Credit,2022-04-18T05:01:38+8:00,323-233-4155,5.49,USA,-118.29189,1010 W Martin Luther King Jr Blvd,S Vermont Ave,2.7
+##########,USD,Metro Gas,Los Angeles,57,CA,90001,34.01046,Regular,Cash,2022-04-18T05:01:38+8:00,323-233-4155,5.49,USA,-118.29189,1010 W Martin Luther King Jr Blvd,S Vermont Ave,2.7
+##########,USD,Speedway Express,Los Angeles,45,CA,90001,33.945652,Regular,Credit,2022-04-18T05:01:38+8:00,323-779-1458,5.65,USA,-118.30058,1403 W Century Blvd,S Normandie Ave,3.5
+##########,USD,76,Los Angeles,23,CA,90001,33.9893644,Regular,Credit,2022-04-18T05:01:38+8:00,323-291-3438,5.99,USA,-118.30866,5816 S Western Ave,W Slauson Ave,2.4
+##########,USD,Mobil,Los Angeles,15,CA,90001,33.9602192,Regular,Credit,2022-04-18T05:01:38+8:00,323-758-6233,5.97,USA,-118.3094,1803 W Manchester Ave,S Western Ave,3.6
+##########,USD,Mobil,Los Angeles,15,CA,90001,33.9602192,Regular,Cash,2022-04-18T05:01:38+8:00,323-758-6233,5.89,USA,-118.3094,1803 W Manchester Ave,S Western Ave,3.6
+##########,USD,Us Gasoline,Los Angeles,187,CA,90002,33.916726,Regular,Credit,2022-04-18T05:01:41+8:00,323-569-4226,5.29,USA,-118.25417,12706 S Central Ave,El Segundo Blvd,3.6
+##########,USD,ARCO,Los Angeles,152,CA,90002,33.9166898,Regular,Credit,2022-04-18T05:01:41+8:00,323-757-1500,5.57,USA,-118.27364,105 E El Segundo Blvd,S Main St,3.7
+##########,USD,Mobil,Los Angeles,18,CA,90002,33.9306591,Regular,Credit,2022-04-18T05:01:41+8:00,323-779-7100,5.89,USA,-118.2912,11400 S Vermont Ave,Imperial Hwy,3.2
+##########,USD,Mobil,Los Angeles,18,CA,90002,33.9306591,Regular,Cash,2022-04-18T05:01:41+8:00,323-779-7100,5.79,USA,-118.2912,11400 S Vermont Ave,Imperial Hwy,3.2
+##########,USD,USA Gasoline,Los Angeles,22,CA,90002,33.9311943,Regular,Credit,2022-04-18T05:01:41+8:00,323-242-0657,5.59,USA,-118.29219,11259 S Vermont Ave,Imperial Hwy,3.4
+##########,USD,ARCO,Los Angeles,25,CA,90002,33.9306787,Regular,Credit,2022-04-18T05:01:42+8:00,323-242-3560,5.59,USA,-118.29293,1026 W Imperial Hwy,S Vermont Ave,3.7
+##########,USD,Shell,Los Angeles,17,CA,90002,33.902466,Regular,Credit,2022-04-18T05:01:42+8:00,310-515-2273,6.09,USA,-118.26495,14216 S Avalon Blvd,E Rosecrans Ave,3.5
+##########,USD,Shell,Los Angeles,17,CA,90002,33.902466,Regular,Cash,2022-04-18T05:01:42+8:00,310-515-2273,5.99,USA,-118.26495,14216 S Avalon Blvd,E Rosecrans Ave,3.5
+##########,USD,USA Gasoline,Los Angeles,18,CA,90002,33.9019538,Regular,Credit,2022-04-18T05:01:42+8:00,310-323-2447,5.66,USA,-118.26488,600 E Rosecrans Ave,S Avalon Blvd,2.8
+##########,USD,ARCO,Los Angeles,29,CA,90002,33.9524353,Regular,Credit,2022-04-18T05:01:42+8:00,323-615-6733,5.25,USA,-118.30863,9200 S Western Ave,W 92nd St,3.8
+##########,USD,ARCO,Los Angeles,29,CA,90002,33.9524353,Regular,Cash,2022-04-18T05:01:42+8:00,323-615-6733,5.15,USA,-118.30863,9200 S Western Ave,W 92nd St,3.8
+##########,USD,ARCO,Los Angeles,89,CA,90003,33.959755,Regular,Credit,2022-04-18T05:01:46+8:00,323-451-3034,5.25,USA,-118.31522,2050 W Manchester Ave,S Wilton Pl,3.7
+##########,USD,ARCO,Los Angeles,89,CA,90003,33.959755,Regular,Cash,2022-04-18T05:01:46+8:00,323-451-3034,5.15,USA,-118.31522,2050 W Manchester Ave,S Wilton Pl,3.7
+##########,USD,Chevron,Los Angeles,17,CA,90003,33.9452257,Regular,Credit,2022-04-18T05:01:46+8:00,323-756-8300,5.95,USA,-118.31736,2138 W Century Blvd,S Van Ness Ave,3.8
+##########,USD,Food 4 Less,Los Angeles,147,CA,90003,33.929745,Regular,Credit,2022-04-18T05:01:46+8:00,323-757-1257,5.43,USA,-118.30937,11407 S Western Ave,Imperial Hwy,4.3
+##########,USD,Mobil,Los Angeles,25,CA,90003,33.9748687,Regular,Credit,2022-04-18T05:01:47+8:00,323-750-7585,5.97,USA,-118.3305,7130 Crenshaw Blvd,W Florence Ave,3.6
+##########,USD,Mobil,Los Angeles,25,CA,90003,33.9748687,Regular,Cash,2022-04-18T05:01:47+8:00,323-750-7585,5.89,USA,-118.3305,7130 Crenshaw Blvd,W Florence Ave,3.6
+##########,USD,76,Los Angeles,377,CA,90004,34.0833634,Regular,Credit,2022-04-18T05:01:49+8:00,323-660-3662,5.65,USA,-118.30083,4600 Melrose Ave,N Normandie Ave,4.1
+##########,USD,76,Los Angeles,377,CA,90004,34.0833634,Regular,Cash,2022-04-18T05:01:49+8:00,323-660-3662,5.49,USA,-118.30083,4600 Melrose Ave,N Normandie Ave,4.1
+##########,USD,Conserv Fuel,Los Angeles,140,CA,90004,34.07613,Regular,Credit,2022-04-18T05:01:49+8:00,213-389-1414,5.67,USA,-118.2871,3625 Temple Blvd,N Virgil Ave,4.1
+##########,USD,Conserv Fuel,Los Angeles,140,CA,90004,34.07613,Regular,Cash,2022-04-18T05:01:49+8:00,213-389-1414,5.57,USA,-118.2871,3625 Temple Blvd,N Virgil Ave,4.1
+##########,USD,Chevron,Los Angeles,56,CA,90004,34.0833746,Regular,Credit,2022-04-18T05:01:49+8:00,323-660-4035,5.75,USA,-118.30019,4590 Melrose Ave,N Normandie Ave,4.1
+##########,USD,Chevron,Los Angeles,56,CA,90004,34.0833746,Regular,Cash,2022-04-18T05:01:49+8:00,323-660-4035,5.59,USA,-118.30019,4590 Melrose Ave,N Normandie Ave,4.1
+##########,USD,76,Los Angeles,38,CA,90004,34.0814485,Regular,Credit,2022-04-18T05:01:49+8:00,626-914-4717,5.79,USA,-118.29201,591 N Vermont Ave,Clinton St,3.7
+##########,USD,76,Los Angeles,38,CA,90004,34.0814485,Regular,Cash,2022-04-18T05:01:49+8:00,626-914-4717,5.69,USA,-118.29201,591 N Vermont Ave,Clinton St,3.7
+##########,USD,ARCO,Los Angeles,176,CA,90004,34.0832313,Regular,Credit,2022-04-18T05:01:49+8:00,323-462-0016,5.67,USA,-118.30946,655 N Western Ave,Melrose Ave,4.2
+##########,USD,Mobil,Los Angeles,98,CA,90004,34.0765422,Regular,Credit,2022-04-18T05:01:50+8:00,323-465-2566,5.85,USA,-118.30953,4605 Beverly Blvd,N Western Ave,3.6
+##########,USD,Mobil,Los Angeles,98,CA,90004,34.0765422,Regular,Cash,2022-04-18T05:01:50+8:00,323-465-2566,5.69,USA,-118.30953,4605 Beverly Blvd,N Western Ave,3.6
+##########,USD,Valero,Los Angeles,60,CA,90004,34.0692093,Regular,Credit,2022-04-18T05:01:50+8:00,213-386-7933,5.89,USA,-118.29207,3501 W 3rd St,S Vermont Ave,3.8
+##########,USD,Valero,Los Angeles,60,CA,90004,34.0692093,Regular,Cash,2022-04-18T05:01:50+8:00,213-386-7933,5.79,USA,-118.29207,3501 W 3rd St,S Vermont Ave,3.8
+##########,USD,Valero,Los Angeles,77,CA,90004,34.083269,Regular,Credit,2022-04-18T05:01:50+8:00,323-465-8296,5.89,USA,-118.32692,655 N Rossmore Ave,Melrose Ave,4.7
+##########,USD,Mobil,Los Angeles,31,CA,90004,34.0831727,Regular,Credit,2022-04-18T05:01:50+8:00,323-662-8654,5.99,USA,-118.29203,657 N Vermont Ave,Melrose Ave,3.5
+##########,USD,Shell,Los Angeles,36,CA,90004,34.0692307,Regular,Credit,2022-04-18T05:01:50+8:00,213-738-1808,5.99,USA,-118.30873,270 S Western Ave,W 3rd St,3.7
+##########,USD,76,Los Angeles,86,CA,90004,34.0767204,Regular,Credit,2022-04-18T05:01:50+8:00,323-665-8139,5.79,USA,-118.29146,304 N Vermont Ave,Beverly Blvd,3.7
+##########,USD,76,Los Angeles,86,CA,90004,34.0767204,Regular,Cash,2022-04-18T05:01:50+8:00,323-665-8139,5.68,USA,-118.29146,304 N Vermont Ave,Beverly Blvd,3.7
+##########,USD,Shell,Los Angeles,50,CA,90004,34.0774153,Regular,Credit,2022-04-18T05:01:50+8:00,323-666-2250,6.06,USA,-118.29197,341 N Vermont Ave,Oakwood Ave,3.6
+##########,USD,Shell,Los Angeles,50,CA,90004,34.0774153,Regular,Cash,2022-04-18T05:01:50+8:00,323-666-2250,5.75,USA,-118.29197,341 N Vermont Ave,Oakwood Ave,3.6
+##########,USD,Chevron,Los Angeles,37,CA,90004,34.0692129,Regular,Credit,2022-04-18T05:01:50+8:00, 213-387-3299,5.89,USA,-118.29873,3817 W 3rd St,S Mariposa Ave,3.3
+##########,USD,Chevron,Los Angeles,37,CA,90004,34.0692129,Regular,Cash,2022-04-18T05:01:50+8:00, 213-387-3299,5.79,USA,-118.29873,3817 W 3rd St,S Mariposa Ave,3.3
+##########,USD,USA Gasoline,Los Angeles,143,CA,90004,34.0836944,Regular,Credit,2022-04-18T05:01:51+8:00,323-469-8780,5.69,USA,-118.31322,5175 Melrose Ave,N Wilton Place,4.3
+##########,USD,Shell,Los Angeles,480,CA,90004,34.083725,Regular,Credit,2022-04-18T05:01:51+8:00,323-667-2331,5.75,USA,-118.29801,4501 Melrose Ave,N Alexandria Ave,3.8
+##########,USD,Shell,Los Angeles,480,CA,90004,34.083725,Regular,Cash,2022-04-18T05:01:51+8:00,323-667-2331,5.59,USA,-118.29801,4501 Melrose Ave,N Alexandria Ave,3.8
+##########,USD,Chevron,Los Angeles,78,CA,90004,34.0638189,Regular,Credit,2022-04-18T05:01:51+8:00,213-381-3810,5.99,USA,-118.29507,3325 W 6th St,S Catalina St,3.4
+##########,USD,Chevron,Los Angeles,78,CA,90004,34.0638189,Regular,Cash,2022-04-18T05:01:51+8:00,213-381-3810,5.89,USA,-118.29507,3325 W 6th St,S Catalina St,3.4
+##########,USD,G&M,Los Angeles,66,CA,90004,34.0577683,Regular,Credit,2022-04-18T05:01:51+8:00,800-403-6142,5.59,USA,-118.30941,801 S Western Ave,W 8th St,3.8
+##########,USD,G&M,Los Angeles,66,CA,90004,34.0577683,Regular,Cash,2022-04-18T05:01:51+8:00,800-403-6142,5.49,USA,-118.30941,801 S Western Ave,W 8th St,3.8
+##########,USD,ARCO,Los Angeles,83,CA,90004,34.0906073,Regular,Credit,2022-04-18T05:01:51+8:00,323-661-9797,5.79,USA,-118.29132,4666 Santa Monica Blvd,N Vermont Ave,3.9
+##########,USD,Mobil,Los Angeles,263,CA,90004,34.0529028,Regular,Credit,2022-04-18T05:01:52+8:00,323-737-7738,5.77,USA,-118.30941,3309 W Olympic Blvd,S Western Ave,4.6
+##########,USD,Shell,Los Angeles,39,CA,90004,34.059426,Regular,Credit,2022-04-18T05:01:52+8:00,213-389-4277,5.94,USA,-118.29136,700 S Vermont Ave,W 7th St,3.3
+##########,USD,Shell,Los Angeles,39,CA,90004,34.059426,Regular,Cash,2022-04-18T05:01:52+8:00,213-389-4277,5.79,USA,-118.29136,700 S Vermont Ave,W 7th St,3.3
+##########,USD,Sinclair,Los Angeles,322,CA,90004,34.088396,Regular,Credit,2022-04-18T05:01:52+8:00,323-666-8414,5.67,USA,-118.28666,924 N Virgil Ave,Lockwood Ave,3.6
+##########,USD,Sinclair,Los Angeles,322,CA,90004,34.088396,Regular,Cash,2022-04-18T05:01:52+8:00,323-666-8414,5.57,USA,-118.28666,924 N Virgil Ave,Lockwood Ave,3.6
+##########,USD,76,Los Angeles,107,CA,90004,34.052865,Regular,Credit,2022-04-18T05:01:52+8:00,323-735-1000,5.79,USA,-118.3143,3481 W Olympic Blvd,S Wilton Pl,3.7
+##########,USD,USA Gasoline,Los Angeles,60,CA,90004,34.0983488,Regular,Credit,2022-04-18T05:01:52+8:00,323-665-0764,5.85,USA,-118.29909,5025 W Sunset Blvd,N Mariposa Ave,3.9
+##########,USD,Mobil,Los Angeles,82,CA,90004,34.053425,Regular,Credit,2022-04-18T05:01:52+8:00,323-933-3804,5.89,USA,-118.32047,3950 W Olympic Blvd,S Norton Ave,2.9
+##########,USD,Mobil,Los Angeles,82,CA,90004,34.053425,Regular,Cash,2022-04-18T05:01:52+8:00,323-933-3804,5.79,USA,-118.32047,3950 W Olympic Blvd,S Norton Ave,2.9
+##########,USD,Eco Fuel,Los Angeles,67,CA,90004,34.0544172,Regular,Credit,2022-04-18T05:01:52+8:00,323-933-6108,5.49,USA,-118.32347,1009 Crenshaw Blvd,W Olympic Blvd,2.7
+##########,USD,ARCO,Los Angeles,98,CA,90004,34.098328,Regular,Credit,2022-04-18T05:01:52+8:00,323-663-6642,5.79,USA,-118.29865,5007 W Sunset Blvd,N Alexandria Ave,4
+##########,USD,ARCO,Los Angeles,98,CA,90004,34.098328,Regular,Cash,2022-04-18T05:01:52+8:00,323-663-6642,5.69,USA,-118.29865,5007 W Sunset Blvd,N Alexandria Ave,4
+##########,USD,Mobil,Los Angeles,11,CA,90004,34.0837167,Regular,Credit,2022-04-18T05:01:52+8:00,323-939-5209,6.29,USA,-118.33891,6601 Melrose Ave,N Highland Ave,4.2
+##########,USD,Shell,Los Angeles,21,CA,90004,34.0952364,Regular,Credit,2022-04-18T05:01:52+8:00,323-661-0578,6.17,USA,-118.29147,1270 N Vermont Ave,Fountain Ave,3.8
+##########,USD,Shell,Los Angeles,21,CA,90004,34.0952364,Regular,Cash,2022-04-18T05:01:52+8:00,323-661-0578,6.07,USA,-118.29147,1270 N Vermont Ave,Fountain Ave,3.8
+##########,USD,76,Los Angeles,58,CA,90004,34.0905152,Regular,Credit,2022-04-18T05:01:53+8:00,323-465-0108,5.89,USA,-118.336,6678 Santa Monica Blvd,N Las Palmas Ave,4.1
+##########,USD,76,Los Angeles,58,CA,90004,34.0905152,Regular,Cash,2022-04-18T05:01:53+8:00,323-465-0108,5.79,USA,-118.336,6678 Santa Monica Blvd,N Las Palmas Ave,4.1
+##########,USD,Mobil,Los Angeles,29,CA,90004,34.0783283,Regular,Credit,2022-04-18T05:01:53+8:00,213-484-9595,6.79,USA,-118.27956,515 Silver Lake Blvd,Bellevue Ave,3
+##########,USD,Chevron,Los Angeles,25,CA,90004,34.0759034,Regular,Credit,2022-04-18T05:01:53+8:00,323-930-0707,6.39,USA,-118.34377,7020 Beverly Blvd,N La Brea Ave,4.1
+##########,USD,Mobil,Los Angeles,24,CA,90004,34.0904652,Regular,Credit,2022-04-18T05:01:53+8:00,323-469-2384,6.29,USA,-118.33902,1051 N Highland Ave,Santa Monica Blvd,4
+##########,USD,Chevron,Los Angeles,30,CA,90004,34.0765123,Regular,Credit,2022-04-18T05:01:53+8:00,323-939-6244,6.39,USA,-118.34428,307 N La Brea Ave,Beverly Blvd,4.2
+##########,USD,Shell,Los Angeles,97,CA,90004,34.0469132,Regular,Credit,2022-04-18T05:01:54+8:00,323-735-8567,5.79,USA,-118.30941,1303 S Western Ave,W Pico Blvd,2.4
+##########,USD,Shell,Los Angeles,97,CA,90004,34.0469132,Regular,Cash,2022-04-18T05:01:54+8:00,323-735-8567,6.09,USA,-118.30941,1303 S Western Ave,W Pico Blvd,2.4
+##########,USD,Mobil,Los Angeles,49,CA,90004,34.0723509,Regular,Credit,2022-04-18T05:01:54+8:00, 213-382-3362,5.99,USA,-118.27526,2608 W Temple St,N Rampart Blvd,3.4
+##########,USD,76,Los Angeles,32,CA,90004,34.0647507,Regular,Credit,2022-04-18T05:01:54+8:00,323-938-3286,6.49,USA,-118.34438,5436 W 6th St,S La Brea Ave,3.5
+##########,USD,ARCO,Los Angeles,58,CA,90004,34.0447389,Regular,Credit,2022-04-18T05:01:54+8:00,323-733-2202,5.65,USA,-118.32799,4169 Venice Blvd,Crenshaw Blvd,3.7
+##########,USD,ARCO,Los Angeles,520,CA,90004,34.0574572,Regular,Credit,2022-04-18T05:01:55+8:00,323-934-6009,5.79,USA,-118.3462,5301 W Olympic Blvd,La Brea Ave,3.6
+##########,USD,ARCO,Los Angeles,520,CA,90004,34.0574572,Regular,Cash,2022-04-18T05:01:55+8:00,323-934-6009,5.69,USA,-118.3462,5301 W Olympic Blvd,La Brea Ave,3.6
+##########,USD,Chevron,Los Angeles,97,CA,90004,34.0666864,Regular,Credit,2022-04-18T05:01:55+8:00,213-484-4959,5.92,USA,-118.26989,2041 W Beverly Blvd,N Alvarado St,3.7
+##########,USD,Chevron,Los Angeles,97,CA,90004,34.0666864,Regular,Cash,2022-04-18T05:01:55+8:00,213-484-4959,5.79,USA,-118.26989,2041 W Beverly Blvd,N Alvarado St,3.7
+##########,USD,Mobil,Los Angeles,70,CA,90004,34.0518189,Regular,Credit,2022-04-18T05:01:55+8:00,213-387-5604,5.89,USA,-118.27937,958 S Alvarado St,W Olympic Blvd,3.2
+##########,USD,Mobil,Los Angeles,70,CA,90004,34.0518189,Regular,Cash,2022-04-18T05:01:55+8:00,213-387-5604,5.79,USA,-118.27937,958 S Alvarado St,W Olympic Blvd,3.2
+##########,USD,ARCO,Los Angeles,160,CA,90004,34.0702127,Regular,Credit,2022-04-18T05:01:55+8:00,213-483-2495,5.63,USA,-118.26849,2106 W Temple St,N Alvarado St,3.4
+##########,USD,Speedway Express,Los Angeles,130,CA,90004,34.048645,Regular,Credit,2022-04-18T05:01:55+8:00,213-385-4979,5.69,USA,-118.28205,1205 S Alvarado St,W 12th St,3.7
+##########,USD,Shell,Los Angeles,41,CA,90004,34.0704269,Regular,Credit,2022-04-18T05:01:55+8:00,213-483-2127,6.29,USA,-118.26753,400 N Alvarado St,W Temple St,3.3
+##########,USD,Shell,Los Angeles,41,CA,90004,34.0704269,Regular,Cash,2022-04-18T05:01:55+8:00,213-483-2127,5.99,USA,-118.26753,400 N Alvarado St,W Temple St,3.3
+##########,USD,Chevron,Los Angeles,105,CA,90004,34.0395126,Regular,Credit,2022-04-18T05:01:55+8:00,323-731-8098,5.87,USA,-118.31794,1907 S Arlington Ave,W Washington Blvd,3.4
+##########,USD,Chevron,Los Angeles,105,CA,90004,34.0395126,Regular,Cash,2022-04-18T05:01:55+8:00,323-731-8098,5.69,USA,-118.31794,1907 S Arlington Ave,W Washington Blvd,3.4
+##########,USD,Shell,Los Angeles,47,CA,90004,34.039738,Regular,Credit,2022-04-18T05:01:56+8:00,323-731-1390,5.85,USA,-118.30064,1904 W Washington Blvd,S Normandie Ave,4.5
+##########,USD,Chevron,Los Angeles,35,CA,90004,34.1108877,Regular,Credit,2022-04-18T05:01:56+8:00,323-664-2608,6.39,USA,-118.29159,2134 N Vermont Ave,Los Feliz Blvd,4.5
+##########,USD,Chevron,Los Angeles,35,CA,90004,34.1108877,Regular,Cash,2022-04-18T05:01:56+8:00,323-664-2608,6.19,USA,-118.29159,2134 N Vermont Ave,Los Feliz Blvd,4.5
+##########,USD,76,Los Angeles,87,CA,90004,34.0373244,Regular,Credit,2022-04-18T05:01:56+8:00,323-737-6598,5.79,USA,-118.31803,2121 Arlington Ave,I-10,3.5
+##########,USD,76,Los Angeles,87,CA,90004,34.0373244,Regular,Cash,2022-04-18T05:01:56+8:00,323-737-6598,5.64,USA,-118.31803,2121 Arlington Ave,I-10,3.5
+##########,USD,United Oil,Los Angeles,369,CA,90004,34.0482081,Regular,Credit,2022-04-18T05:01:56+8:00,323-939-6964,5.49,USA,-118.34417,4931 W Pico Blvd,S La Brea Ave,3.5
+##########,USD,United Oil,Los Angeles,369,CA,90004,34.0482081,Regular,Cash,2022-04-18T05:01:56+8:00,323-939-6964,5.39,USA,-118.34417,4931 W Pico Blvd,S La Brea Ave,3.5
+##########,USD,76,Los Angeles,36,CA,90004,34.0779285,Regular,Credit,2022-04-18T05:01:56+8:00,213-484-9918,6.69,USA,-118.2629,2035 W Sunset Blvd,N Alvarado St,3.1
+##########,USD,76,Los Angeles,36,CA,90004,34.0779285,Regular,Cash,2022-04-18T05:01:56+8:00,213-484-9918,6.59,USA,-118.2629,2035 W Sunset Blvd,N Alvarado St,3.1
+##########,USD,76,Los Angeles,31,CA,90004,34.0763611,Regular,Credit,2022-04-18T05:01:56+8:00,323-936-1879,5.79,USA,-118.35867,7751 Beverly Blvd,N Genesee Ave,3.5
+##########,USD,76,Los Angeles,224,CA,90004,34.049153,Regular,Credit,2022-04-18T05:01:56+8:00,213-387-6839,5.87,USA,-118.27478,1600 W Olympic Blvd,S Union Ave,3.7
+##########,USD,76,Los Angeles,224,CA,90004,34.049153,Regular,Cash,2022-04-18T05:01:56+8:00,213-387-6839,5.72,USA,-118.27478,1600 W Olympic Blvd,S Union Ave,3.7
+##########,USD,Mobil,Los Angeles,22,CA,90004,34.0395114,Regular,Credit,2022-04-18T05:01:56+8:00,323-735-0418,6.39,USA,-118.33166,1925 Crenshaw Blvd,W Washington Blvd,3.3
+##########,USD,76,Los Angeles,114,CA,90004,34.1116635,Regular,Credit,2022-04-18T05:01:56+8:00,323-666-2386,5.87,USA,-118.2871,4456 Los Feliz Blvd,Hillhurst Ave,4.3
+##########,USD,76,Los Angeles,114,CA,90004,34.1116635,Regular,Cash,2022-04-18T05:01:56+8:00,323-666-2386,5.72,USA,-118.2871,4456 Los Feliz Blvd,Hillhurst Ave,4.3
+##########,USD,ARCO,Los Angeles,19,CA,90004,34.0357343,Regular,Credit,2022-04-18T05:01:57+8:00,323-731-4801,5.65,USA,-118.30052,2217 S Normandie Ave,W 23rd St,3.4
+##########,USD,Sinclair,Los Angeles,235,CA,90004,34.0463991,Regular,Credit,2022-04-18T05:01:57+8:00,323-933-5122,5.55,USA,-118.34548,1515 S La Brea Ave,Venice Blvd,3.8
+##########,USD,Sinclair,Los Angeles,235,CA,90004,34.0463991,Regular,Cash,2022-04-18T05:01:57+8:00,323-933-5122,5.45,USA,-118.34548,1515 S La Brea Ave,Venice Blvd,3.8
+##########,USD,Chevron,Los Angeles,35,CA,90004,34.0684572,Regular,Credit,2022-04-18T05:01:57+8:00,213-483-7139,6.09,USA,-118.26124,501 Glendale Blvd,W Temple St,4.3
+##########,USD,76,Los Angeles,55,CA,90004,34.081961,Regular,Credit,2022-04-18T05:01:57+8:00,213-484-0148,5.77,USA,-118.26049,1465 Glendale Blvd,Scott Ave,3.5
+##########,USD,76,Los Angeles,55,CA,90004,34.081961,Regular,Cash,2022-04-18T05:01:57+8:00,213-484-0148,5.67,USA,-118.26049,1465 Glendale Blvd,Scott Ave,3.5
+##########,USD,Shell,Los Angeles,56,CA,90004,34.0758923,Regular,Credit,2022-04-18T05:01:57+8:00,323-935-2322,5.75,USA,-118.36166,7900 Beverly Blvd,Fairfax Ave,4.5
+##########,USD,76,Los Angeles,173,CA,90004,34.084027,Regular,Credit,2022-04-18T05:01:57+8:00,323-655-5377,5.79,USA,-118.36087,7861 Melrose Ave,N Orange Grove Ave,4.1
+##########,USD,76,Los Angeles,173,CA,90004,34.084027,Regular,Cash,2022-04-18T05:01:57+8:00,323-655-5377,5.69,USA,-118.36087,7861 Melrose Ave,N Orange Grove Ave,4.1
+##########,USD,ARCO,Los Angeles,108,CA,90004,34.083951,Regular,Credit,2022-04-18T05:01:57+8:00,213-483-3075 ,5.59,USA,-118.26043,1605 Glendale Blvd,Berkeley Ave,4.1
+##########,USD,ARCO,Los Angeles,108,CA,90004,34.083951,Regular,Cash,2022-04-18T05:01:57+8:00,213-483-3075 ,5.49,USA,-118.26043,1605 Glendale Blvd,Berkeley Ave,4.1
+##########,USD,76,Los Angeles,106,CA,90004,34.0558228,Regular,Credit,2022-04-18T05:01:57+8:00,213-482-5075,5.99,USA,-118.26586,1307 W 6th St,Witmer St,3.4
+##########,USD,Chevron,Los Angeles,97,CA,90004,34.0357396,Regular,Credit,2022-04-18T05:01:57+8:00,323-730-1563,5.79,USA,-118.29129,2202 S Vermont Ave,W 22nd St,4.3
+##########,USD,76,Los Angeles,15,CA,90004,34.1068211,Regular,Credit,2022-04-18T05:01:57+8:00,323-667-1865,6.49,USA,-118.27268,2635 Hyperion Ave,Griffith Park Blvd,3.7
+##########,USD,Shell,Los Angeles,41,CA,90005,34.0329434,Regular,Credit,2022-04-18T05:01:59+8:00,,5.85,USA,-118.30002,1691 W Adams Blvd,Normandie Ave,3.7
+##########,USD,Shell,Los Angeles,41,CA,90005,34.0329434,Regular,Cash,2022-04-18T05:01:59+8:00,,5.75,USA,-118.30002,1691 W Adams Blvd,Normandie Ave,3.7
+##########,USD,Adamâ€™s Fuel,Los Angeles,117,CA,90005,34.032351,Regular,Credit,2022-04-18T05:01:59+8:00,323-766-9346,5.75,USA,-118.30046,2603 S Normandie Ave,W Adams Blvd,2.8
+##########,USD,Mobil,Los Angeles,51,CA,90005,34.0385246,Regular,Cash,2022-04-18T05:01:59+8:00,213-749-3738,5.79,USA,-118.28374,1940 S Hoover St,W 20th St,4
+##########,USD,76,Los Angeles,75,CA,90005,34.0330111,Regular,Credit,2022-04-18T05:02:00+8:00,323-731-6120,5.85,USA,-118.2918,1403 W Adams Blvd,S Vermont Ave,4.6
+##########,USD,76,Los Angeles,75,CA,90005,34.0330111,Regular,Cash,2022-04-18T05:02:00+8:00,323-731-6120,5.75,USA,-118.2918,1403 W Adams Blvd,S Vermont Ave,4.6
+##########,USD,ARCO,Los Angeles,318,CA,90005,34.035502,Regular,Credit,2022-04-18T05:02:00+8:00,,5.63,USA,-118.28425,1208 W 22nd St,Hoover St,3.9
+##########,USD,Shell,Los Angeles,39,CA,90005,34.0461601,Regular,Credit,2022-04-18T05:02:00+8:00,213-748-2121,6.09,USA,-118.27109,1045 Blaine St,W 11th St,3.7
+##########,USD,Chevron,Los Angeles,24,CA,90005,34.03289,Regular,Credit,2022-04-18T05:02:00+8:00,323-735-8487,5.79,USA,-118.33447,2538 Crenshaw Blvd,W Adams Blvd,4
+##########,USD,76,Los Angeles,20,CA,90005,34.0328544,Regular,Credit,2022-04-18T05:02:00+8:00,323-789-6000,5.89,USA,-118.33518,2545 Crenshaw Blvd,W Adams Blvd,3.1
+##########,USD,76,Los Angeles,20,CA,90005,34.0328544,Regular,Cash,2022-04-18T05:02:00+8:00,323-789-6000,5.69,USA,-118.33518,2545 Crenshaw Blvd,W Adams Blvd,3.1
+##########,USD,Mobil,Los Angeles,30,CA,90005,34.0322521,Regular,Credit,2022-04-18T05:02:00+8:00, 323-734-3269,5.84,USA,-118.33465,4380 W Adams Blvd,Crenshaw Blvd,3.5
+##########,USD,Mobil,Los Angeles,30,CA,90005,34.0322521,Regular,Cash,2022-04-18T05:02:00+8:00, 323-734-3269,5.77,USA,-118.33465,4380 W Adams Blvd,Crenshaw Blvd,3.5
+##########,USD,Chevron,Los Angeles,45,CA,90005,34.034506,Regular,Credit,2022-04-18T05:02:00+8:00,213-741-0875,5.99,USA,-118.27153,525 W Washington Blvd,S Figueroa St,4.3
+##########,USD,Chevron,Los Angeles,45,CA,90005,34.034506,Regular,Cash,2022-04-18T05:02:00+8:00,213-741-0875,5.99,USA,-118.27153,525 W Washington Blvd,S Figueroa St,4.3
+##########,USD,Mobil,Los Angeles,66,CA,90005,34.0276864,Regular,Credit,2022-04-18T05:02:00+8:00,213-746-1612,5.79,USA,-118.27592,2620 S Figueroa St,W Adams Blvd,3.6
+##########,USD,ARCO,Los Angeles,71,CA,90005,34.0253755,Regular,Credit,2022-04-18T05:02:00+8:00,323-734-4824,5.45,USA,-118.33466,3412 Crenshaw Blvd,W Jefferson Blvd,3.4
+##########,USD,Chevron,Los Angeles,38,CA,90005,34.0258235,Regular,Credit,2022-04-18T05:02:00+8:00,800-403-6142,5.89,USA,-118.33544,3063 Crenshaw Blvd,W Jefferson Blvd,3.6
+##########,USD,Chevron,Los Angeles,38,CA,90005,34.0258235,Regular,Cash,2022-04-18T05:02:00+8:00,800-403-6142,5.79,USA,-118.33544,3063 Crenshaw Blvd,W Jefferson Blvd,3.6
+##########,USD,Shell,Los Angeles,92,CA,90005,34.0430409,Regular,Credit,2022-04-18T05:02:01+8:00,213-748-5687,6.39,USA,-118.26108,504 W Olympic Blvd,S Grand Ave,3.3
+##########,USD,Shell,Los Angeles,92,CA,90005,34.0430409,Regular,Cash,2022-04-18T05:02:01+8:00,213-748-5687,6.09,USA,-118.26108,504 W Olympic Blvd,S Grand Ave,3.3
+##########,USD,Shell,Los Angeles,76,CA,90005,34.041055,Regular,Credit,2022-04-18T05:02:01+8:00,323-934-0263,5.89,USA,-118.35331,5164 W Washington Blvd,S Redondo Blvd,2.5
+##########,USD,Shell,Los Angeles,76,CA,90005,34.041055,Regular,Cash,2022-04-18T05:02:01+8:00,323-934-0263,5.79,USA,-118.35331,5164 W Washington Blvd,S Redondo Blvd,2.5
+##########,USD,Valero,Los Angeles,59,CA,90005,34.035637,Regular,Credit,2022-04-18T05:02:01+8:00,323-935-8592,5.89,USA,-118.34982,2339 S La Brea Ave,W 23rd St,3.1
+##########,USD,Valero,Los Angeles,59,CA,90005,34.035637,Regular,Cash,2022-04-18T05:02:01+8:00,323-935-8592,5.69,USA,-118.34982,2339 S La Brea Ave,W 23rd St,3.1
+##########,USD,ARCO,Los Angeles,134,CA,90005,34.0178726,Regular,Credit,2022-04-18T05:02:01+8:00,323-283-8483,5.69,USA,-118.29176,3775 S Vermont Ave,Exposition Blvd,3.9
+##########,USD,ARCO,Los Angeles,134,CA,90005,34.0178726,Regular,Cash,2022-04-18T05:02:01+8:00,323-283-8483,5.59,USA,-118.29176,3775 S Vermont Ave,Exposition Blvd,3.9
+##########,USD,Shell,Los Angeles,59,CA,90005,34.0216897,Regular,Credit,2022-04-18T05:02:01+8:00,323-292-2141,5.79,USA,-118.33548,3645 Crenshaw Blvd,Rodeo Rd,2.9
+##########,USD,Shell,Los Angeles,59,CA,90005,34.0216897,Regular,Cash,2022-04-18T05:02:01+8:00,323-292-2141,5.79,USA,-118.33548,3645 Crenshaw Blvd,Rodeo Rd,2.9
+##########,USD,Chevron,Los Angeles,10,CA,90005,34.0328544,Regular,Credit,2022-04-18T05:02:01+8:00,323-932-1765,5.79,USA,-118.35042,2546 S La Brea Ave,W Adams Blvd,3.5
+##########,USD,Shell,Los Angeles,88,CA,90005,34.0438072,Regular,Credit,2022-04-18T05:02:01+8:00,323-931-7327,5.67,USA,-118.35814,5420 W Venice Blvd,Hauser Blvd,4.2
+##########,USD,Shell,Los Angeles,88,CA,90005,34.0438072,Regular,Cash,2022-04-18T05:02:01+8:00,323-931-7327,5.67,USA,-118.35814,5420 W Venice Blvd,Hauser Blvd,4.2
+##########,USD,ARCO,Los Angeles,31,CA,90006,34.0111094,Regular,Credit,2022-04-18T05:02:04+8:00,323-291-4093,5.75,USA,-118.29984,1355 W Martin Luther King Jr Blvd,S Normandie Ave,3.7
+##########,USD,King Jr Gas & Mart,Los Angeles,35,CA,90006,34.0110738,Regular,Credit,2022-04-18T05:02:04+8:00,323-293-2211,5.59,USA,-118.30429,1515 W Martin Luther King Jr Blvd,Denker Ave,3.1
+##########,USD,King Jr Gas & Mart,Los Angeles,35,CA,90006,34.0110738,Regular,Cash,2022-04-18T05:02:04+8:00,323-293-2211,5.49,USA,-118.30429,1515 W Martin Luther King Jr Blvd,Denker Ave,3.1
+##########,USD,American Gas,Los Angeles,42,CA,90006,34.010628,Regular,Credit,2022-04-18T05:02:04+8:00,323-295-1668,5.59,USA,-118.30051,1404 W Martin Luther King Jr Blvd,S Normandie Ave,2.9
+##########,USD,American Gas,Los Angeles,42,CA,90006,34.010628,Regular,Cash,2022-04-18T05:02:04+8:00,323-295-1668,5.49,USA,-118.30051,1404 W Martin Luther King Jr Blvd,S Normandie Ave,2.9
+##########,USD,United Oil,Los Angeles,177,CA,90006,34.0755369,Regular,Credit,2022-04-18T05:02:04+8:00,213-481-0019,5.53,USA,-118.254,1467 W Sunset Blvd,Portia St,4.3
+##########,USD,Shell,Los Angeles,7,CA,90006,34.0267271,Regular,Credit,2022-04-18T05:02:04+8:00,213-748-0663,5.9,USA,-118.24879,1541 S Central Ave,E 16th St,3.5
+##########,USD,Valero,Los Angeles,196,CA,90006,34.0412162,Regular,Credit,2022-04-18T05:02:04+8:00,213-626-1250,5.58,USA,-118.23798,500 S Alameda St,E 5th St,2.9
+##########,USD,Valero,Los Angeles,196,CA,90006,34.0412162,Regular,Cash,2022-04-18T05:02:04+8:00,213-626-1250,5.39,USA,-118.23798,500 S Alameda St,E 5th St,2.9
+##########,USD,76,Los Angeles,63,CA,90007,34.0271972,Regular,Credit,2022-04-18T05:02:07+8:00,213-627-5008,5.59,USA,-118.23875,1800 E Olympic Blvd,S Alameda St,4
+##########,USD,Shell,Los Angeles,19,CA,90007,34.0259179,Regular,Credit,2022-04-18T05:02:07+8:00,213-623-3413,5.99,USA,-118.22966,1520 S Santa Fe Ave,E Olympic Blvd,3.7
+##########,USD,Valero,Los Angeles,31,CA,90007,34.0147957,Regular,Credit,2022-04-18T05:02:07+8:00,323-296-0324,5.84,USA,-118.34219,3950 W Martin Luther King Jr Blvd,Buckingham Rd,3.2
+##########,USD,Valero,Los Angeles,31,CA,90007,34.0147957,Regular,Cash,2022-04-18T05:02:07+8:00,323-296-0324,5.69,USA,-118.34219,3950 W Martin Luther King Jr Blvd,Buckingham Rd,3.2
+##########,USD,Chevron,Los Angeles,113,CA,90007,34.058457,Regular,Credit,2022-04-18T05:02:07+8:00,213-680-1222,7.23,USA,-118.23725,901 N Alameda St,N Main St,2.6
+##########,USD,Chevron,Los Angeles,35,CA,90008,34.0186796,Regular,Credit,2022-04-18T05:02:09+8:00,800-403-6142,5.89,USA,-118.35523,3742 S La Brea Ave,Coliseum St,3.2
+##########,USD,Chevron,Los Angeles,35,CA,90008,34.0186796,Regular,Cash,2022-04-18T05:02:09+8:00,800-403-6142,5.79,USA,-118.35523,3742 S La Brea Ave,Coliseum St,3.2
+##########,USD,76,Los Angeles,130,CA,90008,34.0252711,Regular,Credit,2022-04-18T05:02:10+8:00,323-935-2089,5.75,USA,-118.35526,5100 W Jefferson Blvd,S La Brea Ave,3.7
+##########,USD,76,Los Angeles,130,CA,90008,34.0252711,Regular,Cash,2022-04-18T05:02:10+8:00,323-935-2089,5.55,USA,-118.35526,5100 W Jefferson Blvd,S La Brea Ave,3.7
+##########,USD,Chevron,Los Angeles,80,CA,90008,33.9887517,Regular,Credit,2022-04-18T05:02:10+8:00,323-293-4374,5.89,USA,-118.33805,3708 W Slauson Ave,Deane Ave,3.9
+##########,USD,Sinclair,Los Angeles,34,CA,90008,33.9888484,Regular,Credit,2022-04-18T05:02:10+8:00,323-292-8356,5.99,USA,-118.35814,4661 W Slauson Ave,S La Brea Ave,3.8
+##########,USD,Sinclair,Los Angeles,34,CA,90008,33.9888484,Regular,Cash,2022-04-18T05:02:10+8:00,323-292-8356,5.89,USA,-118.35814,4661 W Slauson Ave,S La Brea Ave,3.8
+##########,USD,La Brea Gas,Los Angeles,110,CA,90008,33.9887806,Regular,Credit,2022-04-18T05:02:10+8:00,323-295-0378,5.39,USA,-118.35907,4701 W Slauson Ave,S La Brea Ave,4.4
+##########,USD,Shell,Los Angeles,28,CA,90008,33.9883669,Regular,Credit,2022-04-18T05:02:10+8:00,323-293-1750,5.69,USA,-118.35814,4660 W Slauson Ave,S La Brea Ave,4.1
+##########,USD,United Oil,Los Angeles,104,CA,90008,33.9882469,Regular,Credit,2022-04-18T05:02:10+8:00,323-296-0433,5.39,USA,-118.35882,4700 W Slauson Ave,S La Brea Ave,4.4
+##########,USD,Shell,Los Angeles,34,CA,90008,33.9886816,Regular,Credit,2022-04-18T05:02:10+8:00,323-298-2004,5.89,USA,-118.33127,5805 S Crenshaw Blvd,W Slauson Ave,3.1
+##########,USD,Shell,Los Angeles,34,CA,90008,33.9886816,Regular,Cash,2022-04-18T05:02:10+8:00,323-298-2004,5.69,USA,-118.33127,5805 S Crenshaw Blvd,W Slauson Ave,3.1
+##########,USD,ARCO,Los Angeles,49,CA,90008,33.9886772,Regular,Credit,2022-04-18T05:02:10+8:00,323-290-2257,5.65,USA,-118.33042,5804 Crenshaw Blvd,W Slauson Ave,3.1
+##########,USD,76,Los Angeles,29,CA,90008,33.9873528,Regular,Credit,2022-04-18T05:02:10+8:00,323-295-7601,5.69,USA,-118.36229,4856 W Slauson Ave,S Fairfax Ave,3.8
+##########,USD,Chevron,Los Angeles,68,CA,90008,34.0279775,Regular,Credit,2022-04-18T05:02:10+8:00,323-935-9350,5.89,USA,-118.37175,3300 S La Cienega Blvd,Boden St,3.3
+##########,USD,Mobil,Los Angeles,23,CA,90008,33.9775589,Regular,Credit,2022-04-18T05:02:11+8:00,310-417-8382,6.09,USA,-118.37084,5215 W Centinela Ave,La Cienega Blvd,3.8
+##########,USD,Mobil,Los Angeles,23,CA,90008,33.9775589,Regular,Cash,2022-04-18T05:02:11+8:00,310-417-8382,5.89,USA,-118.37084,5215 W Centinela Ave,La Cienega Blvd,3.8
+##########,USD,Mobil,Los Angeles,38,CA,90008,34.0379912,Regular,Credit,2022-04-18T05:02:11+8:00,310-839-7361,5.79,USA,-118.37761,2305 S La Cienega Blvd,Cadillac Ave,3.7
+##########,USD,Chevron,Los Angeles,44,CA,90008,34.0385857,Regular,Credit,2022-04-18T05:02:11+8:00,310-836-9942,5.79,USA,-118.37772,2065 S La Cienega Blvd,Cadillac Ave,3.6
+##########,USD,Valero,Los Angeles,136,CA,90008,34.0315541,Regular,Credit,2022-04-18T05:02:11+8:00,310-836-6542,5.53,USA,-118.3912,3071 S Robertson Blvd,National Blvd,3.9
+##########,USD,Valero,Los Angeles,136,CA,90008,34.0315541,Regular,Cash,2022-04-18T05:02:11+8:00,310-836-6542,5.43,USA,-118.3912,3071 S Robertson Blvd,National Blvd,3.9
+##########,USD,Shell,Los Angeles,116,CA,90008,34.0327389,Regular,Credit,2022-04-18T05:02:11+8:00,310-836-1497,5.69,USA,-118.39043,3029 S Robertson Blvd,Kincardine Ave,3.8
+##########,USD,Shell,Los Angeles,116,CA,90008,34.0327389,Regular,Cash,2022-04-18T05:02:11+8:00,310-836-1497,5.59,USA,-118.39043,3029 S Robertson Blvd,Kincardine Ave,3.8
+##########,USD,Chevron,Los Angeles,27,CA,90008,33.977557,Regular,Credit,2022-04-18T05:02:11+8:00,310-641-7776,6.29,USA,-118.38673,5975 W Centinela Ave,Green Valley Cir,3.9
+##########,USD,Shell,Los Angeles,40,CA,90008,33.971146,Regular,Credit,2022-04-18T05:02:11+8:00,310-645-8396,6.35,USA,-118.37837,7360 La Tijera Ave,Osage Ave,4.2
+##########,USD,Shell,Los Angeles,40,CA,90008,33.971146,Regular,Cash,2022-04-18T05:02:11+8:00,310-645-8396,6.45,USA,-118.37837,7360 La Tijera Ave,Osage Ave,4.2
+##########,USD,ARCO,Los Angeles,104,CA,90008,33.9705568,Regular,Credit,2022-04-18T05:02:12+8:00,310-645-7477,5.59,USA,-118.37898,7370 La Tijera Blvd,W 74th St,3.6
+##########,USD,ARCO,Los Angeles,104,CA,90008,33.9705568,Regular,Cash,2022-04-18T05:02:12+8:00,310-645-7477,5.49,USA,-118.37898,7370 La Tijera Blvd,W 74th St,3.6
+##########,USD,76,Los Angeles,19,CA,90008,33.9701797,Regular,Credit,2022-04-18T05:02:12+8:00,310-670-3521,5.89,USA,-118.37946,7400 La Tijera Blvd,W 74th St,3.8
+##########,USD,76,Los Angeles,19,CA,90008,33.9701797,Regular,Cash,2022-04-18T05:02:12+8:00,310-670-3521,5.74,USA,-118.37946,7400 La Tijera Blvd,W 74th St,3.8
+##########,USD,76,Los Angeles,43,CA,90008,34.0512394,Regular,Credit,2022-04-18T05:02:12+8:00,310-854-0118,5.79,USA,-118.37591,1460 S La Cienega Blvd,Saturn St,4
+##########,USD,76,Los Angeles,43,CA,90008,34.0512394,Regular,Cash,2022-04-18T05:02:12+8:00,310-854-0118,5.69,USA,-118.37591,1460 S La Cienega Blvd,Saturn St,4
+##########,USD,United Oil,Los Angeles,520,CA,90008,34.031532,Regular,Credit,2022-04-18T05:02:12+8:00,310-839-3147,5.43,USA,-118.40012,9815 National Blvd,Castle Heights Ave,4.6
+##########,USD,Sinaco Oil,Los Angeles,20,CA,90008,34.030286,Regular,Credit,2022-04-18T05:02:12+8:00,310-204-5176,5.43,USA,-118.40223,9930 National Blvd,I-10,3.2
+##########,USD,76,Los Angeles,84,CA,90008,34.0485926,Regular,Credit,2022-04-18T05:02:13+8:00,310-836-7193,5.85,USA,-118.38583,1701 S Robertson Blvd,Airdrome St,3.7
+##########,USD,Shell,Los Angeles,111,CA,90008,34.0584371,Regular,Credit,2022-04-18T05:02:13+8:00,323-938-0289,6.99,USA,-118.36406,6101 W Olympic Blvd,Fairfax Ave,1.7
+##########,USD,Mobil,Los Angeles,27,CA,90008,34.0519094,Regular,Credit,2022-04-18T05:02:13+8:00,310-247-8938,5.87,USA,-118.38389,1502 S Robertson Blvd,Cashio St,2.8
+##########,USD,Mobil,Los Angeles,27,CA,90008,34.0519094,Regular,Cash,2022-04-18T05:02:13+8:00,310-247-8938,5.77,USA,-118.38389,1502 S Robertson Blvd,Cashio St,2.8
+##########,USD,ARCO,Los Angeles,166,CA,90008,34.0263648,Regular,Credit,2022-04-18T05:02:13+8:00,310-836-1707,5.45,USA,-118.40895,3479 Motor Ave,Palms Blvd,2.2
+##########,USD,ARCO,Los Angeles,166,CA,90008,34.0263648,Regular,Cash,2022-04-18T05:02:13+8:00,310-836-1707,5.35,USA,-118.40895,3479 Motor Ave,Palms Blvd,2.2
+##########,USD,Chevron,Los Angeles,13,CA,90008,33.9718769,Regular,Credit,2022-04-18T05:02:13+8:00,310-641-2209,6.49,USA,-118.39457,7550 S Sepulveda Blvd,W 76th St,3.9
+##########,USD,Chevron,Los Angeles,83,CA,90008,34.0025079,Regular,Credit,2022-04-18T05:02:13+8:00,310-397-5545,5.79,USA,-118.41237,11305 Culver Blvd,Sawtelle Blvd,2.7
+##########,USD,Chevron,Los Angeles,83,CA,90008,34.0025079,Regular,Cash,2022-04-18T05:02:13+8:00,310-397-5545,5.79,USA,-118.41237,11305 Culver Blvd,Sawtelle Blvd,2.7
+##########,USD,Shell,Los Angeles,18,CA,90010,34.0721165,Regular,Credit,2022-04-18T05:02:18+8:00, 323-933-7393,5.84,USA,-118.36392,8017 W 3rd St,S Edinburgh Ave,3.7
+##########,USD,Shell,Los Angeles,32,CA,90011,34.0237583,Regular,Credit,2022-04-18T05:02:21+8:00,323-263-8010,5.83,USA,-118.21952,1410 S Soto St,E Olympic Blvd,3.9
+##########,USD,Shell,Los Angeles,32,CA,90011,34.0237583,Regular,Cash,2022-04-18T05:02:21+8:00,323-263-8010,5.69,USA,-118.21952,1410 S Soto St,E Olympic Blvd,3.9
+##########,USD,ARCO,Los Angeles,213,CA,90011,34.0231558,Regular,Credit,2022-04-18T05:02:21+8:00,323-980-0914,5.35,USA,-118.21814,2740 E Olympic Blvd,Orme Ave,3.8
+##########,USD,76,Los Angeles,28,CA,90011,34.0284299,Regular,Credit,2022-04-18T05:02:21+8:00,323-263-0098,5.73,USA,-118.21953,1171 S Soto St,E 8th St,3.9
+##########,USD,76,Los Angeles,28,CA,90011,34.0284299,Regular,Cash,2022-04-18T05:02:21+8:00,323-263-0098,5.67,USA,-118.21953,1171 S Soto St,E 8th St,3.9
+##########,USD,Mobil,Los Angeles,34,CA,90011,34.0283132,Regular,Credit,2022-04-18T05:02:21+8:00,323-307-2124,5.59,USA,-118.21883,1166 S Soto St,E 8th St,3.4
+##########,USD,Mobil,Los Angeles,34,CA,90011,34.0283132,Regular,Cash,2022-04-18T05:02:21+8:00,323-307-2124,5.49,USA,-118.21883,1166 S Soto St,E 8th St,3.4
+##########,USD,Chevron,Los Angeles,10,CA,90011,34.019949,Regular,Credit,2022-04-18T05:02:21+8:00,323-262-9190,5.89,USA,-118.21077,3154 E Olympic Blvd,S Grande Vista Ave,3.3
+##########,USD,Chevron,Los Angeles,10,CA,90011,34.019949,Regular,Cash,2022-04-18T05:02:21+8:00,323-262-9190,5.79,USA,-118.21077,3154 E Olympic Blvd,S Grande Vista Ave,3.3
+##########,USD,76,Los Angeles,65,CA,90011,34.0428009,Regular,Credit,2022-04-18T05:02:21+8:00,323-263-9369,5.73,USA,-118.2193,1800 E 4th St,Boyle Ave,3.2
+##########,USD,76,Los Angeles,65,CA,90011,34.0428009,Regular,Cash,2022-04-18T05:02:21+8:00,323-263-9369,5.67,USA,-118.2193,1800 E 4th St,Boyle Ave,3.2
+##########,USD,Sinclair,Los Angeles,52,CA,90011,34.0428386,Regular,Credit,2022-04-18T05:02:21+8:00,323-266-7000,5.79,USA,-118.21621,2005 E 4th St,S Cummings St,3.7
+##########,USD,Sinclair,Los Angeles,52,CA,90011,34.0428386,Regular,Cash,2022-04-18T05:02:21+8:00,323-266-7000,5.66,USA,-118.21621,2005 E 4th St,S Cummings St,3.7
+##########,USD,Shell,Los Angeles,49,CA,90012,34.0644666,Regular,Credit,2022-04-18T05:02:24+8:00,213-625-3799,6.74,USA,-118.23841,900 N Hill St,W College St,3.5
+##########,USD,Shell,Los Angeles,49,CA,90012,34.0644666,Regular,Cash,2022-04-18T05:02:24+8:00,213-625-3799,6.65,USA,-118.23841,900 N Hill St,W College St,3.5
+##########,USD,76,Los Angeles,58,CA,90012,34.0729119,Regular,Credit,2022-04-18T05:02:24+8:00,323-227-1153,5.89,USA,-118.22006,2001 N Broadway,S Ave 20,3.9
+##########,USD,76,Los Angeles,58,CA,90012,34.0729119,Regular,Cash,2022-04-18T05:02:24+8:00,323-227-1153,5.79,USA,-118.22006,2001 N Broadway,S Ave 20,3.9
+##########,USD,USA Gasoline,Los Angeles,30,CA,90012,34.073374,Regular,Credit,2022-04-18T05:02:24+8:00,323-343-1847,5.59,USA,-118.21719,2214 N Broadway,S Ave 24,3.7
+##########,USD,Chevron,Los Angeles,22,CA,90012,34.061127,Regular,Credit,2022-04-18T05:02:24+8:00,323-227-6500,5.99,USA,-118.21432,1101 N Mission Rd,Daly St,3.7
+##########,USD,USA Gasoline,Los Angeles,44,CA,90012,34.083767,Regular,Credit,2022-04-18T05:02:24+8:00,323-225-1952,5.65,USA,-118.22286,2251 N Figueroa St,W Ave 26,3.4
+##########,USD,C & J,Los Angeles,56,CA,90012,34.06616,Regular,Credit,2022-04-18T05:02:24+8:00,323-221-3501,5.45,USA,-118.21195,2829 N Main St,Griffin Ave,3.2
+##########,USD,Kwik Serv,Los Angeles,54,CA,90012,34.0838011,Regular,Credit,2022-04-18T05:02:24+8:00,323-222-4595,5.49,USA,-118.22199,2600 N Figueroa St,W Ave 26,3.8
+##########,USD,Kwik Serv,Los Angeles,54,CA,90012,34.0838011,Regular,Cash,2022-04-18T05:02:24+8:00,323-222-4595,5.39,USA,-118.22199,2600 N Figueroa St,W Ave 26,3.8
+##########,USD,Chevron,Los Angeles,65,CA,90012,34.0841543,Regular,Credit,2022-04-18T05:02:24+8:00,800-403-6142,5.79,USA,-118.22241,2601 N Figueroa St,W Ave 26,4.3
+##########,USD,Chevron,Los Angeles,65,CA,90012,34.0841543,Regular,Cash,2022-04-18T05:02:24+8:00,800-403-6142,5.69,USA,-118.22241,2601 N Figueroa St,W Ave 26,4.3
+##########,USD,ARCO,Los Angeles,154,CA,90012,34.0738872,Regular,Credit,2022-04-18T05:02:24+8:00,323-221-4818,5.43,USA,-118.2121,2829 N Broadway,Griffin Ave,4.1
+##########,USD,76,Los Angeles,24,CA,90012,34.0577172,Regular,Credit,2022-04-18T05:02:24+8:00,323-221-0416,5.87,USA,-118.21055,1848 Marengo St,N State St,3.6
+##########,USD,76,Los Angeles,24,CA,90012,34.0577172,Regular,Cash,2022-04-18T05:02:24+8:00,323-221-0416,5.77,USA,-118.21055,1848 Marengo St,N State St,3.6
+##########,USD,Sinclair,Los Angeles,14,CA,90012,34.052643,Regular,Credit,2022-04-18T05:02:25+8:00,323-268-2497,5.75,USA,-118.2038,918 N Soto St,Wabash Ave,4.1
+##########,USD,Mobil,Los Angeles,13,CA,90012,34.0533539,Regular,Credit,2022-04-18T05:02:25+8:00,323-266-2214,5.85,USA,-118.20336,1010 N Soto St,Pomeroy Ave,3.5
+##########,USD,Valero,Los Angeles,264,CA,90012,34.0403594,Regular,Credit,2022-04-18T05:02:25+8:00,323-981-0927,5.35,USA,-118.21216,401 S Soto St,E 4th St,3.5
+##########,USD,Chevron,Los Angeles,38,CA,90012,34.1032588,Regular,Credit,2022-04-18T05:02:25+8:00,323-342-0334,5.99,USA,-118.23725,2135 N San Fernando Rd,Cazador St,4.1
+##########,USD,Chevron,Los Angeles,38,CA,90012,34.1032588,Regular,Cash,2022-04-18T05:02:25+8:00,323-342-0334,5.89,USA,-118.23725,2135 N San Fernando Rd,Cazador St,4.1
+##########,USD,ARCO,Los Angeles,56,CA,90012,34.043851,Regular,Credit,2022-04-18T05:02:25+8:00,323-264-1786,5.49,USA,-118.20062,2925 E Cesar E Chavez Ave,N Evergreen Ave,4.2
+##########,USD,ARCO,Los Angeles,112,CA,90012,34.1056191,Regular,Credit,2022-04-18T05:02:25+8:00,323-660-3925,5.79,USA,-118.25639,2466 Riverside Dr,Fletcher Dr,4
+##########,USD,ARCO,Los Angeles,112,CA,90012,34.1056191,Regular,Cash,2022-04-18T05:02:25+8:00,323-660-3925,5.69,USA,-118.25639,2466 Riverside Dr,Fletcher Dr,4
+##########,USD,Chevron,Los Angeles,53,CA,90012,34.1063847,Regular,Credit,2022-04-18T05:02:25+8:00,323-663-2541,6.19,USA,-118.2566,2427 Fletcher Dr,Riverside Dr,3.8
+##########,USD,Mobil,Los Angeles,32,CA,90012,34.0656543,Regular,Credit,2022-04-18T05:02:26+8:00,323-227-4774,5.89,USA,-118.18056,4793 Valley Blvd,N Eastern Ave,3.2
+##########,USD,Mobil,Los Angeles,32,CA,90012,34.0656543,Regular,Cash,2022-04-18T05:02:26+8:00,323-227-4774,5.89,USA,-118.18056,4793 Valley Blvd,N Eastern Ave,3.2
+##########,USD,USA Gasoline,Los Angeles,21,CA,90012,34.040684,Regular,Credit,2022-04-18T05:02:26+8:00,323-780-0747,5.59,USA,-118.18787,3541 E Cesar Chavez Ave,N Townsend Ave,3.8
+##########,USD,ARCO,Los Angeles,106,CA,90012,34.0279831,Regular,Credit,2022-04-18T05:02:26+8:00,323-268-2725,5.45,USA,-118.20058,3401 Whittier Blvd,S Lorena St,4.6
+##########,USD,Chevron,LosAngeles,75,CA,90012,34.1149912,Regular,Credit,2022-04-18T05:02:26+8:00,323-258-1931,6.29,USA,-118.24633,3100 N San Fernando Rd,Fletcher Dr,4.2
+##########,USD,Chevron,Los Angeles,42,CA,90012,34.1109363,Regular,Credit,2022-04-18T05:02:26+8:00,323-953-9304,6.09,USA,-118.26526,2918 Riverside Dr,Glendale Blvd,3.9
+##########,USD,Chevron,Los Angeles,42,CA,90012,34.1109363,Regular,Cash,2022-04-18T05:02:26+8:00,323-953-9304,5.99,USA,-118.26526,2918 Riverside Dr,Glendale Blvd,3.9
+##########,USD,76,LosAngeles,24,CA,90012,34.1158306,Regular,Credit,2022-04-18T05:02:26+8:00,323-662-0501,5.99,USA,-118.26269,3070 Glendale Blvd,Glenhurst Ave,4.2
+##########,USD,76,LosAngeles,24,CA,90012,34.1158306,Regular,Cash,2022-04-18T05:02:26+8:00,323-662-0501,5.89,USA,-118.26269,3070 Glendale Blvd,Glenhurst Ave,4.2
+##########,USD,Shell,Los Angeles,38,CA,90012,34.1161815,Regular,Credit,2022-04-18T05:02:27+8:00,323-660-2608,6.69,USA,-118.26336,3047 Glendale Blvd,Glenfeliz Blvd,4
+##########,USD,Shell,Los Angeles,38,CA,90012,34.1161815,Regular,Cash,2022-04-18T05:02:27+8:00,323-660-2608,6.59,USA,-118.26336,3047 Glendale Blvd,Glenfeliz Blvd,4
+##########,USD,Chevron,Los Angeles,80,CA,90012,34.0590871,Regular,Credit,2022-04-18T05:02:27+8:00,323-269-4228,5.89,USA,-118.17296,1535 N Eastern Ave,Ramona Blvd,3.6
+##########,USD,Mobil,Los Angeles,74,CA,90012,34.059998,Regular,Credit,2022-04-18T05:02:27+8:00,323-262-8471,6.09,USA,-118.17275,1600 N Eastern Ave,Valley Blvd,3.4
+##########,USD,ARCO,Los Angeles,36,CA,90013,34.0330556,Regular,Credit,2022-04-18T05:02:29+8:00,323-268-0350,5.55,USA,-118.18514,3834 E 3rd St,S Gage Ave,3.8
+##########,USD,ARCO,Los Angeles,36,CA,90013,34.0330556,Regular,Cash,2022-04-18T05:02:29+8:00,323-268-0350,5.45,USA,-118.18514,3834 E 3rd St,S Gage Ave,3.8
+##########,USD,76,Los Angeles,96,CA,90013,34.019062,Regular,Credit,2022-04-18T05:02:29+8:00,323-262-7432,5.69,USA,-118.19196,3915 E Olympic Blvd,S Indiana St,3.9
+##########,USD,76,Los Angeles,96,CA,90013,34.019062,Regular,Cash,2022-04-18T05:02:29+8:00,323-262-7432,5.54,USA,-118.19196,3915 E Olympic Blvd,S Indiana St,3.9
+##########,USD,Berri Brothers,Los Angeles,121,CA,90013,34.0330934,Regular,Credit,2022-04-18T05:02:29+8:00,323-262-0204,5.29,USA,-118.18421,3860 E 3rd St,S Gage Ave,4.5
+##########,USD,Berri Brothers,Los Angeles,121,CA,90013,34.0330934,Regular,Cash,2022-04-18T05:02:29+8:00,323-262-0204,5.43,USA,-118.18421,3860 E 3rd St,S Gage Ave,4.5
+##########,USD,ARCO,Los Angeles,86,CA,90013,34.0208722,Regular,Credit,2022-04-18T05:02:29+8:00,323-267-8509,5.39,USA,-118.18956,3949 Dennison St,S Ditman Ave,3.8
+##########,USD,Sinclair,Los Angeles,61,CA,90013,34.020973,Regular,Credit,2022-04-18T05:02:29+8:00,323-265-3727,5.45,USA,-118.18903,1060 S Ditman Ave,Dennison St,4
+##########,USD,Sinclair,Los Angeles,61,CA,90013,34.020973,Regular,Cash,2022-04-18T05:02:29+8:00,323-265-3727,5.29,USA,-118.18903,1060 S Ditman Ave,Dennison St,4
+##########,USD,Sinclair,Los Angeles,186,CA,90016,34.0591693,Regular,Credit,2022-04-18T05:02:35+8:00,323-917-5021,5.49,USA,-118.37595,1004 S La Cienega Blvd,W Olympic Blvd,4.4
+##########,USD,Sinclair,Los Angeles,186,CA,90016,34.0591693,Regular,Cash,2022-04-18T05:02:35+8:00,323-917-5021,5.39,USA,-118.37595,1004 S La Cienega Blvd,W Olympic Blvd,4.4
+##########,USD,Speedway Express,Los Angeles,319,CA,90016,34.0591349,Regular,Credit,2022-04-18T05:02:35+8:00,310-855-9346,5.65,USA,-118.38329,8770 W Olympic Blvd,S Robertson Blvd,4.1
+##########,USD,76,Los Angeles,80,CA,90016,34.0554817,Regular,Credit,2022-04-18T05:02:35+8:00,310-274-1981,5.85,USA,-118.38959,9081 W Pico Blvd,S Doheny Dr,4.1
+##########,USD,76,Los Angeles,80,CA,90016,34.0554817,Regular,Cash,2022-04-18T05:02:35+8:00,310-274-1981,5.79,USA,-118.38959,9081 W Pico Blvd,S Doheny Dr,4.1
+##########,USD,Mobil,Los Angeles,40,CA,90016,34.07631,Regular,Credit,2022-04-18T05:02:36+8:00,310-657-1541,6.79,USA,-118.37628,8489 Beverly Blvd,La Cienega Blvd,2.8
+##########,USD,Mobil,Los Angeles,31,CA,90016,34.031114,Regular,Credit,2022-04-18T05:02:36+8:00,310-837-6252,6.19,USA,-118.41608,10611 National Blvd,Overland Ave,3.1
+##########,USD,76,Los Angeles,25,CA,90016,34.073855,Regular,Credit,2022-04-18T05:02:36+8:00,310-275-0937,5.99,USA,-118.38357,8755 W 3rd St,S Robertson Blvd,2.9
+##########,USD,United Oil,Los Angeles,204,CA,90022,34.0443788,Regular,Credit,2022-04-18T05:03:21+8:00,323-264-1081,5.43,USA,-118.17392,705 N Eastern Ave,Floral Dr,3.8
+##########,USD,United Oil,Los Angeles,204,CA,90022,34.0443788,Regular,Cash,2022-04-18T05:03:21+8:00,323-264-1081,5.33,USA,-118.17392,705 N Eastern Ave,Floral Dr,3.8
+##########,USD,7-Eleven,Los Angeles,141,CA,90022,34.074515,Regular,Credit,2022-04-18T05:03:24+8:00,323-343-8663,5.69,USA,-118.16183,5530 E Valley Blvd,I-710,3.7
+##########,USD,Chevron,Los Angeles,65,CA,90024,34.0634318,Regular,Credit,2022-04-18T05:03:31+8:00,310-208-8124,5.99,USA,-118.44856,10984 Le Conte Ave,Gayley Ave,3.9
+##########,USD,Chevron,Los Angeles,65,CA,90024,34.0634318,Regular,Cash,2022-04-18T05:03:31+8:00,310-208-8124,5.99,USA,-118.44856,10984 Le Conte Ave,Gayley Ave,3.9
+##########,USD,Mobil,Los Angeles,32,CA,90024,34.0438354,Regular,Credit,2022-04-18T05:03:32+8:00,310-475-9000,6.89,USA,-118.43222,10863 W Olympic Blvd,Westwood Blvd,2.6
+##########,USD,Shell,Los Angeles,50,CA,90024,34.0439043,Regular,Credit,2022-04-18T05:03:32+8:00,310-837-4880,6.09,USA,-118.42069,10564 W Pico Blvd,Prosser Ave,4.1
+##########,USD,76,Los Angeles,81,CA,90024,34.0422408,Regular,Credit,2022-04-18T05:03:32+8:00,310-323-3992,5.79,USA,-118.42468,10691 W Pico Blvd,Overland Ave,3.6
+##########,USD,76,Los Angeles,81,CA,90024,34.0422408,Regular,Cash,2022-04-18T05:03:32+8:00,310-323-3992,5.69,USA,-118.42468,10691 W Pico Blvd,Overland Ave,3.6
+##########,USD,Conserv Fuel,Los Angeles,72,CA,90024,34.0540194,Regular,Credit,2022-04-18T05:03:32+8:00,310-571-0039,5.69,USA,-118.46574,11699 San Vicente Blvd,S Barrington Ave,4.1
+##########,USD,Conserv Fuel,Los Angeles,72,CA,90024,34.0540194,Regular,Cash,2022-04-18T05:03:32+8:00,310-571-0039,5.59,USA,-118.46574,11699 San Vicente Blvd,S Barrington Ave,4.1
+##########,USD,Chevron,Los Angeles,27,CA,90024,34.0650855,Regular,Credit,2022-04-18T05:03:32+8:00,310-472-3654,5.99,USA,-118.46963,110 S Barrington Ave,Chayote St,4.2
+##########,USD,Chevron,Los Angeles,30,CA,90024,34.0776652,Regular,Cash,2022-04-18T05:03:32+8:00,310-472-4864,6.09,USA,-118.46889,670 N Sepulveda Blvd,Moraga Dr,4.6
+##########,USD,76,Los Angeles,39,CA,90024,34.0781362,Regular,Credit,2022-04-18T05:03:33+8:00,310-467-1979,5.99,USA,-118.46945,800 N Sepulveda Blvd,Moraga Dr,4.5
+##########,USD,Chevron,Los Angeles,37,CA,90024,34.052575,Regular,Credit,2022-04-18T05:03:33+8:00,310-826-6495,5.88,USA,-118.46961,11852 San Vicente Blvd,Montana Ave,4.3
+##########,USD,Chevron,Los Angeles,37,CA,90024,34.052575,Regular,Cash,2022-04-18T05:03:33+8:00,310-826-6495,5.88,USA,-118.46961,11852 San Vicente Blvd,Montana Ave,4.3
+##########,USD,United Oil,Los Angeles,191,CA,90024,34.0333746,Regular,Credit,2022-04-18T05:03:33+8:00,310-477-7035,5.49,USA,-118.44896,11748 W Olympic Blvd,Stoner Ave,4
+##########,USD,United Oil,Los Angeles,191,CA,90024,34.0333746,Regular,Cash,2022-04-18T05:03:33+8:00,310-477-7035,5.39,USA,-118.44896,11748 W Olympic Blvd,Stoner Ave,4
+##########,USD,Chevron,Los Angeles,35,CA,90024,34.0327244,Regular,Credit,2022-04-18T05:03:33+8:00,310-312-9976,5.99,USA,-118.45349,11951 W Olympic Blvd,S Bundy Dr,3.5
+##########,USD,Shell,Los Angeles,39,CA,90024,34.0322121,Regular,Credit,2022-04-18T05:03:33+8:00,310-826-1832,5.99,USA,-118.4531,11944 W Olympic Blvd,S Bundy Dr,3.9
+##########,USD,SK Gasoline,Los Angeles,80,CA,90024,34.0262536,Regular,Credit,2022-04-18T05:03:33+8:00,310-478-5783,5.29,USA,-118.43092,11280 National Blvd,Sawtelle Blvd,2.9
+##########,USD,76,Los Angeles,54,CA,90024,34.0203436,Regular,Credit,2022-04-18T05:03:33+8:00,310-473-0075,6.23,USA,-118.4447,2876 S Bundy Dr,National Blvd,3.7
+##########,USD,76,Los Angeles,54,CA,90024,34.0203436,Regular,Cash,2022-04-18T05:03:33+8:00,310-473-0075,5.99,USA,-118.4447,2876 S Bundy Dr,National Blvd,3.7
+##########,USD,76,Los Angeles,143,CA,90024,34.010541,Regular,Credit,2022-04-18T05:03:34+8:00,310-737-7853,5.84,USA,-118.43846,3500 S Centinela Ave,Palms Blvd,3.9
+##########,USD,76,Los Angeles,143,CA,90024,34.010541,Regular,Cash,2022-04-18T05:03:34+8:00,310-737-7853,5.69,USA,-118.43846,3500 S Centinela Ave,Palms Blvd,3.9
+##########,USD,Chevron,Los Angeles,23,CA,90024,34.0982549,Regular,Credit,2022-04-18T05:03:35+8:00,323-650-3008,5.99,USA,-118.36537,8101 W Sunset Blvd,Crescent Heights Blvd,4.5
+##########,USD,Chevron,Los Angeles,23,CA,90024,34.0982549,Regular,Cash,2022-04-18T05:03:35+8:00,323-650-3008,5.99,USA,-118.36537,8101 W Sunset Blvd,Crescent Heights Blvd,4.5
+##########,USD,ARCO,Los Angeles,470,CA,90024,33.9968442,Regular,Credit,2022-04-18T05:03:36+8:00,310-398-1783,5.35,USA,-118.428,12332 W Washington Blvd,S Centinela Ave,3.2
+##########,USD,ARCO,Los Angeles,470,CA,90024,33.9968442,Regular,Cash,2022-04-18T05:03:36+8:00,310-398-1783,5.25,USA,-118.428,12332 W Washington Blvd,S Centinela Ave,3.2
+##########,USD,United Oil,Los Angeles,384,CA,90025,33.9945386,Regular,Credit,2022-04-18T05:03:40+8:00,310-390-2090,5.45,USA,-118.41782,12000 Culver Blvd,Inglewood Ave,3.7
+##########,USD,United Oil,Los Angeles,384,CA,90025,33.9945386,Regular,Cash,2022-04-18T05:03:40+8:00,310-390-2090,5.39,USA,-118.41782,12000 Culver Blvd,Inglewood Ave,3.7
+##########,USD,Chevron,Los Angeles,45,CA,90026,34.12477,Regular,Credit,2022-04-18T05:03:45+8:00,323-661-3500,6.39,USA,-118.2657,3050 Los Feliz Blvd,Brunswick Ave,4.3
+##########,USD,Chevron,Los Angeles,45,CA,90026,34.12477,Regular,Cash,2022-04-18T05:03:45+8:00,323-661-3500,6.29,USA,-118.2657,3050 Los Feliz Blvd,Brunswick Ave,4.3
+##########,USD,Shell,Los Angeles,35,CA,90026,34.1248103,Regular,Credit,2022-04-18T05:03:45+8:00,323-660-2917,6.39,USA,-118.26652,3073 Los Feliz Blvd,Edenhurst Ave,4.3
+##########,USD,Shell,Los Angeles,35,CA,90026,34.1248103,Regular,Cash,2022-04-18T05:03:45+8:00,323-660-2917,6.29,USA,-118.26652,3073 Los Feliz Blvd,Edenhurst Ave,4.3
+##########,USD,76,Los Angeles,68,CA,90026,34.125089,Regular,Credit,2022-04-18T05:03:45+8:00,323-660-6926,5.95,USA,-118.26605,3053 Los Feliz Blvd,Brunswick Ave,4.4
+##########,USD,76,Los Angeles,68,CA,90026,34.125089,Regular,Cash,2022-04-18T05:03:45+8:00,323-660-6926,5.85,USA,-118.26605,3053 Los Feliz Blvd,Brunswick Ave,4.4
+##########,USD,Chevron,Los Angeles,47,CA,90026,34.1206026,Regular,Credit,2022-04-18T05:03:45+8:00,323-254-4250,6.39,USA,-118.22887,4005 Eagle Rock Blvd,Verdugo Rd,4.2
+##########,USD,ARCO,Los Angeles,103,CA,90027,34.1252511,Regular,Credit,2022-04-18T05:03:59+8:00,323-258-6432,5.63,USA,-118.23199,4103 Verdugo Rd,York Blvd,3.8
+##########,USD,Unico,Los Angeles,352,CA,90027,34.1247848,Regular,Credit,2022-04-18T05:03:59+8:00,323-257-6857,5.39,USA,-118.23147,4072 Verdugo Rd,York Blvd,4.2
+##########,USD,Unico,Los Angeles,352,CA,90027,34.1247848,Regular,Cash,2022-04-18T05:03:59+8:00,323-257-6857,5.35,USA,-118.23147,4072 Verdugo Rd,York Blvd,4.2
+##########,USD,Mobil,Los Angeles,17,CA,90028,34.0982893,Regular,Credit,2022-04-18T05:04:06+8:00,323-874-9609,6.05,USA,-118.36113,7865 W Sunset Blvd,N Fairfax Ave,4.7
+##########,USD,Mobil,Los Angeles,17,CA,90028,34.0982893,Regular,Cash,2022-04-18T05:04:06+8:00,323-874-9609,5.89,USA,-118.36113,7865 W Sunset Blvd,N Fairfax Ave,4.7
+##########,USD,76,Los Angeles,33,CA,90030,34.090538,Regular,Credit,2022-04-18T05:04:11+8:00,323-352-3095,5.89,USA,-118.16428,5376 Huntington Dr S,Poplar Blvd,4.1
+##########,USD,76,Los Angeles,33,CA,90030,34.090538,Regular,Cash,2022-04-18T05:04:11+8:00,323-352-3095,5.79,USA,-118.16428,5376 Huntington Dr S,Poplar Blvd,4.1
+##########,USD,Shell,Los Angeles,18,CA,90030,34.1220281,Regular,Credit,2022-04-18T05:04:11+8:00,323-254-4784,6.19,USA,-118.22391,4236 Eagle Rock Blvd,El Paso Dr,4.2
+##########,USD,Chevron,LosAngeles,19,CA,90032,34.135464,Regular,Credit,2022-04-18T05:04:17+8:00,626-792-9928,6.18,USA,-118.14704,160 E California Blvd,S Arroyo Pkwy,3.7
+##########,USD,Chevron,Los Angeles,79,CA,90034,33.981358,Regular,Credit,2022-04-18T05:04:21+8:00,310-578-2941,5.79,USA,-118.40967,12401 W Jefferson Blvd,S Centinela Ave,3.5
+##########,USD,Sinclair,Los Angeles,37,CA,90043,33.9595574,Regular,Cash,2022-04-18T05:04:52+8:00,310-215-9716,6.79,USA,-118.38281,5800 W Manchester Ave,Ramsgate Ave,3
+##########,USD,ARCO,Los Angeles,38,CA,90043,33.9522711,Regular,Credit,2022-04-18T05:04:52+8:00,310-649-2277,5.99,USA,-118.37675,9200 Aviation Blvd,W Arbor Vitae St,3.7
+##########,USD,G&M,Los Angeles,81,CA,90044,33.9167591,Regular,Credit,2022-04-18T05:04:54+8:00,800-403-6142,5.49,USA,-118.30888,12726 S Western Ave,W El Segundo Blvd,3.8
+##########,USD,G&M,Los Angeles,81,CA,90044,33.9167591,Regular,Cash,2022-04-18T05:04:54+8:00,800-403-6142,5.39,USA,-118.30888,12726 S Western Ave,W El Segundo Blvd,3.8
+##########,USD,G&M,Los Angeles,426,CA,90045,33.9600935,Regular,Credit,2022-04-18T05:04:57+8:00,800-403-6142,5.49,USA,-118.39176,6101 W Manchester Ave,La Tijera Blvd,4.2
+##########,USD,ARCO,Los Angeles,54,CA,90045,33.9456329,Regular,Credit,2022-04-18T05:04:57+8:00,310-417-4025,5.55,USA,-118.37049,5201 W Century Blvd,La Cienega Blvd,4
+##########,USD,76,Los Angeles,108,CA,90045,33.9601925,Regular,Credit,2022-04-18T05:04:57+8:00,310-641-4195,5.59,USA,-118.39654,8525 S Sepulveda Blvd,W Manchester Ave,4.1
+##########,USD,Shell,Los Angeles,144,CA,90045,33.9456788,Regular,Credit,2022-04-18T05:04:57+8:00,310-568-8717,5.79,USA,-118.3781,5551 W Century Blvd,Aviation Blvd,3.8
+##########,USD,Shell,Los Angeles,144,CA,90045,33.9456788,Regular,Cash,2022-04-18T05:04:57+8:00,310-568-8717,5.69,USA,-118.3781,5551 W Century Blvd,Aviation Blvd,3.8
+##########,USD,76,Los Angeles,84,CA,90045,33.9451756,Regular,Credit,2022-04-18T05:04:57+8:00,310-338-0753,5.77,USA,-118.37813,5552 W Century Blvd,Aviation Blvd,3.8
+##########,USD,76,Los Angeles,84,CA,90045,33.9451756,Regular,Cash,2022-04-18T05:04:57+8:00,310-338-0753,5.62,USA,-118.37813,5552 W Century Blvd,Aviation Blvd,3.8
+##########,USD,Shell,Los Angeles,14,CA,90045,33.9632069,Regular,Credit,2022-04-18T05:04:57+8:00,310-242-6924,6.19,USA,-118.42183,8126 Lincoln Blvd,W 83rd St,4.3
+##########,USD,Shell,Los Angeles,14,CA,90045,33.9632069,Regular,Cash,2022-04-18T05:04:57+8:00,310-242-6924,6.09,USA,-118.42183,8126 Lincoln Blvd,W 83rd St,4.3
+##########,USD,Mobil,Los Angeles,21,CA,90045,33.9713898,Regular,Credit,2022-04-18T05:04:57+8:00,310-641-7317,6.49,USA,-118.39536,7601 S Sepulveda Blvd,W 77th St,4.1
+##########,USD,Mobil,Los Angeles,31,CA,90045,33.9595218,Regular,Credit,2022-04-18T05:04:57+8:00,310-645-1666,6.67,USA,-118.4047,6600 W Manchester Ave,Emerson Ave,3
+##########,USD,Mobil,Los Angeles,31,CA,90045,33.9595218,Regular,Cash,2022-04-18T05:04:57+8:00,310-645-1666,6.57,USA,-118.4047,6600 W Manchester Ave,Emerson Ave,3
+##########,USD,Valero,Los Angeles,18,CA,90059,33.902148,Regular,Credit,2022-04-18T05:05:51+8:00,310-532-1891,5.99,USA,-118.28232,14204 S Figueroa St,W Rosecrans Ave,3.1
+##########,USD,Valero,Los Angeles,18,CA,90059,33.902148,Regular,Cash,2022-04-18T05:05:51+8:00,310-532-1891,5.89,USA,-118.28232,14204 S Figueroa St,W Rosecrans Ave,3.1

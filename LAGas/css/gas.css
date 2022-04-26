@@ -1,0 +1,65 @@
+body,html {
+	margin:0;
+	height:100%;
+	width:100%;
+}
+
+#map {
+	height: 100%;
+	font-family: 'Franklin Gothic Medium';
+}
+
+body {
+	display: grid;
+	grid-template-rows: 80px 1fr 50px;
+	grid-template-columns: 15% 85%;
+	grid-template-areas: 
+	"header header"
+	"sidebar content"
+	"footer footer";
+}
+
+.header {
+	grid-area: header;
+	padding:20px;
+	background-color: #010101;
+	color: #FFFFFF;
+	font-size: 2em;
+	font-family: 'Franklin Gothic Medium';
+	font-weight: bold;
+	text-align: center;
+}
+
+.sidebar {
+	color: white;
+	grid-area: sidebar;
+	padding:10px;
+	background-color: #010101;
+	overflow: auto;
+	font-family: 'Franklin Gothic Medium';
+	font-weight: bold;
+}
+
+.sidebar-item {	/* border: 1px solid gray; */
+	padding: 2px;	/* background-color: #333; */
+	float:left;
+	cursor:pointer;
+	color: #EE1D52;
+	font-size: 1em;
+}
+
+.sidebar-item:hover {
+	background-color: #69C9D0;
+}
+
+.content {
+	grid-area: content;
+}
+
+.footer {
+	grid-area: footer;
+	padding:10px;
+	background-color: #010101;
+	font-family: 'Franklin Gothic Medium';
+	color: #FFFFFF;
+}
