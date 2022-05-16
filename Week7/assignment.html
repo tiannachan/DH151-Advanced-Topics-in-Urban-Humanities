@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LA Poverty Population Choropleth</title>
+	<meta charset="utf-8" />
+
+	<!-- style sheets -->
+	<link rel="stylesheet" href="css/assignment.css">
+
+	<!-- leaflet -->
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+	<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+	<!-- jquery -->
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- classy brew -->
+	<script src="js/classybrew.js"></script>
+
+</head>
+<body>
+
+	<div class="header">
+		LA Poverty Population Choropleth
+	</div>
+	<div class="sidebar">
+		<div class="sidebar-box">
+			<h3>Explore</h3>
+			<div class="sidebar-item" onclick="flyToIndex(34.066242,-118.445328)">UCLA</div>
+			<div class="sidebar-item" onclick="flyToIndex(34.02278,-118.40472)">Palms/Culver City</div>
+			<div class="sidebar-item" onclick="flyToIndex(33.980289,-118.451745)">Venice/ Del Rey/ Playa Vista</div>
+			<div class="sidebar-item" onclick="flyToIndex(34.050833,-118.255)">Downtown LA</div>
+			<div class="sidebar-item" onclick="flyToIndex(34.098907,-118.327759)">Hollywood</div>
+			<div class="sidebar-item" onclick="flyToIndex(34.091341,-118.293589)">East Hollywood</div>
+			<div class="sidebar-item" onclick="flyToIndex(34.157802,-118.370441)">North Hollywood</div>
+		</div>
+	</div>
+	<div class="content">
+		<div id="map"></div>
+	</div>
+	<div class="footer">
+		Source: <a href="https://geohub.lacity.org/datasets/lahub::los-angeles-poverty-statistics/explore?location=34.019673%2C-118.411779%2C10.53">Los Angeles Poverty Statistics</a>
+	</div>
+  
+	<script src="js/assignment.js"></script>
+
+</body>
+</html>
